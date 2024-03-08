@@ -3,11 +3,11 @@
 
 ![Ancient Forest preview](./ancient-forest-render.png) 
 
-<video src="./ancient-forest-walkthrough.mov" controls></video>
+<video src="./ancient-forest-walkthrough.mov" controls style="width: 100%"></video>
 
 ### How big is the map exactly? Let's get a sense of scale.
 
-<video src="./ancient-forest-scale.mov" controls></video>
+<video src="./ancient-forest-scale.mov" controls style="width: 100%"></video>
 
 ### Here's how it compares to the working draft of a map from the game files:
 
@@ -62,7 +62,7 @@ Brightshroom Oranda, Inyrevn Mermaid, Mullet Minnow...
 
 ## Earth temple: **Vault of the Roots**
 
-<video src="./earth-temple.mov" controls></video>
+<video src="./earth-temple.mov" controls style="width: 100%"></video>
 
 ### Earth bundle
 
