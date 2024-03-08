@@ -8,17 +8,25 @@ This map is heavily unfinished. It's half empty, has placeholder structures, has
 
 <video src="./ancient-forest-walkthrough.mov" controls style="width: 100%"></video>
 
+⠀
+
 ### Map size in perspective
 
 <video src="./ancient-forest-scale.mov" controls style="width: 100%"></video>
+
+⠀
 
 ### Landscape vs working draft
 
 ![Top-down view](./ancient-forest-overlay.jpg) ![Graphical map](./ancient-forest-map.jpg) 
 
+⠀
+
 ### New ore: **Illuminium**
 
 ![Illuminium ingot](./illuminum-ingot.png) ![Illuminium ore](./illuminum-ore.png)
+
+⠀
 
 ### New fish, bugs and forage
 
@@ -68,6 +76,8 @@ Brightshroom Oranda, Inyrevn Mermaid, Mullet Minnow...
 <video src="./earth-temple.mov" controls style="width: 100%"></video>
 <video src="./earth-temple-2.mov" controls style="width: 100%"></video>
 
+⠀
+
 ### Earth bundle
 
 **Reward: Ancient Galdur Statue** (GaldurSeedMaker)
@@ -99,6 +109,8 @@ Brightshroom Oranda, Inyrevn Mermaid, Mullet Minnow...
 
 ![Ancient Galdur statue](./galdur-seed-maker.png) 
 
+⠀
+
 ### Reward: **Galdur bobber**
 
 ![Galdur bobber](./galdur-bobber.png) 
@@ -127,6 +139,8 @@ Also known as "the Umbraan child", "the lost child".
 
 ![View ride dashboard](./courtyard.png)
 
+⠀
+
 ### Dormer window (goes on the roof)
 
 ![View ride dashboard](./dormer-window.png)
@@ -143,13 +157,19 @@ Also known as "the Umbraan child", "the lost child".
 
 ![Flowers](./flowers.png)
 
+⠀
+
 ### More referral rewards
 
 ![referral pergolas](./referrer-rewards.png)
 
+⠀
+
 ### Plantable trees of various sizes
 
 ![Treeeeeeees](./trees.png)
+
+⠀
 
 ### Discord rewards
 
