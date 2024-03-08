@@ -2,7 +2,7 @@
 
 ## New map: **Ancient Forest** in the **Umbraa** region
 
-This map is heavily unfinished. It's half empty, has placeholder structures, has already changed in the past and will probably stil change, and doesn't represent the final look of the zone.
+This map is heavily unfinished. It's half empty, uses placeholder structures, has already changed in the past and will probably still change. It doesn't represent the final look of the zone.
 
 ![Ancient Forest preview](./ancient-forest-render.png) 
 
