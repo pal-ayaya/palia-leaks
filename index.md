@@ -13,7 +13,9 @@
 
 ![Top-down view](./ancient-forest-overlay.jpg) ![Graphical map](./ancient-forest-map.jpg) 
 
-## ...new ore: **Illuminium**
+---
+
+### ...new ore: **Illuminium**
 
 ![Illuminium ingot](./illuminum-ingot.png) ![Illuminium ore](./illuminum-ore.png)
 
@@ -54,12 +56,11 @@ Brightshroom Oranda, Inyrevn Mermaid, Mullet Minnow...
 
 - Hunting: **Fungopher**
 
-
+---
 
 ## Earth temple: **Vault of the Roots**
 
 <video src="./earth-temple.mov" controls></video>
-
 
 ### Earth bundle
 
@@ -96,9 +97,7 @@ Brightshroom Oranda, Inyrevn Mermaid, Mullet Minnow...
 
 ![Galdur bobber](./galdur-bobber.png) 
 
-
-
-
+---
 
 ## New NPC: **Ulfe**
 
@@ -106,8 +105,7 @@ Brightshroom Oranda, Inyrevn Mermaid, Mullet Minnow...
 
 ![Ulfe front](./ulfe-front.png) ![Ulfe back](./ulfe-back.png) 
 
-
-
+---
 
 ## Housing addons
 
@@ -119,8 +117,7 @@ Brightshroom Oranda, Inyrevn Mermaid, Mullet Minnow...
 
 ![View ride dashboard](./dormer-window.png)
 
-
-
+---
 
 ## Decor and rewards
 
