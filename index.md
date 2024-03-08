@@ -63,6 +63,7 @@ Brightshroom Oranda, Inyrevn Mermaid, Mullet Minnow...
 ## Earth temple: **Vault of the Roots**
 
 <video src="./earth-temple.mov" controls style="width: 100%"></video>
+<video src="./earth-temple-2.mov" controls style="width: 100%"></video>
 
 ### Earth bundle
 
