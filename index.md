@@ -73,6 +73,8 @@ Brightshroom Oranda, Inyrevn Mermaid, Mullet Minnow...
 
 ## Earth temple: **Vault of the Roots**
 
+This is also not final. Large parts of the temple are still missing decoration and prop clutter, and the pipe section is only roughly blueprinted and uses placeholder chest assets.
+
 <video src="./earth-temple.mov" controls style="width: 100%"></video>
 <video src="./earth-temple-2.mov" controls style="width: 100%"></video>
 
