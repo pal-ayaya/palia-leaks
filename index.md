@@ -2,23 +2,25 @@
 
 ## New map: **Ancient Forest** in the **Umbraa** region
 
+This map is heavily unfinished. It's half empty, has placeholder structures, has already changed in the past and will probably stil change, and doesn't represent the final look of the zone.
+
 ![Ancient Forest preview](./ancient-forest-render.png) 
 
 <video src="./ancient-forest-walkthrough.mov" controls style="width: 100%"></video>
 
-### How big is the map exactly? Let's get a sense of scale.
+### Map size in perspective
 
 <video src="./ancient-forest-scale.mov" controls style="width: 100%"></video>
 
-### Here's how it compares to the working draft of a map from the game files:
+### Landscape vs working draft
 
 ![Top-down view](./ancient-forest-overlay.jpg) ![Graphical map](./ancient-forest-map.jpg) 
 
-### ...new ore: **Illuminium**
+### New ore: **Illuminium**
 
 ![Illuminium ingot](./illuminum-ingot.png) ![Illuminium ore](./illuminum-ore.png)
 
-### ...a bunch of new fish, bugs and forage
+### New fish, bugs and forage
 
 - Forage
   - Elderflower
@@ -93,11 +95,11 @@ Brightshroom Oranda, Inyrevn Mermaid, Mullet Minnow...
 - Rootseeker's Bundle (**reward: recipe - Phoenix Floor Planter**)
   - Rootseeker Medallion (6)
 
-### Ancient Galdur Statue ("Galdur seed maker")
+### Reward: **Ancient Galdur Statue** ("Galdur seed maker")
 
 ![Ancient Galdur statue](./galdur-seed-maker.png) 
 
-### Galdur bobber
+### Reward: **Galdur bobber**
 
 ![Galdur bobber](./galdur-bobber.png) 
 
@@ -109,7 +111,7 @@ Brightshroom Oranda, Inyrevn Mermaid, Mullet Minnow...
 
 ## New NPC: **Ulfe**
 
-### Also known as "the Umbraan child", "lost child".
+Also known as "the Umbraan child", "the lost child".
 
 ![Ulfe front](./ulfe-front.png) ![Ulfe back](./ulfe-back.png) 
 
