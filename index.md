@@ -301,6 +301,4 @@ These playing cards have unknown purpose, but it appears to be digits in a base-
 5 6 7 8  
 9 A B 0  
 
-⠀
-
 ![Auni's playing cards](./aunis-cards.png)
