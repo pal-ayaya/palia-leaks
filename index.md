@@ -205,6 +205,8 @@ Unreleased assets from before 0.177.x
 
 ## New map: **Community Center**
 
+<video src="./community-center.mov" controls style="width: 100%"></video>
+
 ![Community center](./CommunityCenter1.jpg)
 
 ![Community center](./CommunityCenter2.jpg)
@@ -240,9 +242,12 @@ These could have been scrapped in playtesting, or may be used later. who knows.
 
 ![Unused parkour section 2](./FireTempleParkour2.jpg)
 
+
 ⠀
 
 ---
+
+⠀
 
 ## New hunting creature codename **Beach walker**
 
@@ -250,3 +255,38 @@ It spits a goo that slows players down.
 
 
 ![Beach walker](./beachwalker.jpg)
+
+⠀
+
+---
+
+⠀
+## Old Air temple concept
+
+Air temple used to have extensive climbing sections. This was most likely removed because many players really disliked the climbing challenge.
+
+<video src="./old-air-temple-1.mov" controls style="width: 100%"></video>
+<video src="./old-air-temple-2.mov" controls style="width: 100%"></video>
+<video src="./old-air-temple-3.mov" controls style="width: 100%"></video>
+⠀
+
+---
+
+⠀
+## Old AZ2 concept
+
+This area is almost entirely re-done in the current version of AZ2.
+
+<video src="./az2-wip.mov" controls style="width: 100%"></video>
+⠀
+
+---
+
+⠀
+## Majiri script
+
+![Majiri script alphabet maji](./alphabet.png)
+
+These playing cards have unknown purpose, but they give us the digits 1, 2, 3 and 4.
+
+![Auni's playing cards](./aunis-cards.png)
