@@ -177,8 +177,15 @@ Also known as "the Umbraan child", "the lost child".
 
 ![Wumpus plushie](./wumpus.png) 
 
+⠀
+
+===
+
+⠀
 
 # In older versions
+
+Unreleased assets from before 0.177.x
 
 ## New map: **Community Center**
 
@@ -193,6 +200,8 @@ Also known as "the Umbraan child", "the lost child".
 ⠀
 
 ## Community activities
+
+This is what the board in the center of Kilima is supposed to do.
 ⠀
 ![Community center](./communitysomething.png)
 
@@ -203,6 +212,8 @@ Also known as "the Umbraan child", "the lost child".
 ⠀
 
 ## Unused Fire Temple levels
+
+These could have been scrapped in playtesting, who knows.
 ⠀
 ![Unused maze 1](./FireTempleMaze1.jpg)
 
