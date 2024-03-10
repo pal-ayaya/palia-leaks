@@ -293,7 +293,17 @@ This area is almost entirely remade in the current version of AZ2.
 
 ## Majiri script
 
+A B C D E  
+F G H I J  
+K L M N O  
+P Q R S T  
+U V W X Y  
+
 ![Majiri script alphabet maji](./alphabet.png)
+
+"Z" is not present in this tileset. It looks like this:
+
+![Majiri script letter Z](./majiri-script-letter-z.png)
 
 These playing cards have unknown purpose, but it appears to be digits in a base-12 system.
 
