@@ -279,8 +279,9 @@ The floating tubes are spinning boulders, the rectangular platforms are moving p
 ⠀
 ## Old AZ2 concept
 
-This area is almost entirely re-done in the current version of AZ2.
+This area is almost entirely remade in the current version of AZ2.
 
+<video src="./az2-wip-1.mov" controls style="width: 100%"></video>
 <video src="./az2-wip.mov" controls style="width: 100%"></video>
 ⠀
 
