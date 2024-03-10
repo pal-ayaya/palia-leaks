@@ -265,7 +265,9 @@ It spits a goo that slows players down.
 ⠀
 ## Old Air temple concept
 
-Air temple used to have extensive climbing sections. This was most likely removed because many players really disliked the climbing challenge.
+Air temple used to have extensive climbing sections. This was most likely removed because of negative feedback about the climbing tower challenge.
+
+The floating tubes are spinning boulders, the rectangular platforms are moving platforms.
 
 <video src="./old-air-temple-1.mov" controls style="width: 100%"></video>
 <video src="./old-air-temple-2.mov" controls style="width: 100%"></video>
