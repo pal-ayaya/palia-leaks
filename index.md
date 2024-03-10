@@ -1,6 +1,8 @@
 # 0.177.1 
 
-## New map: **Ancient Forest** in the **Umbraa** region
+## New map: **AZ2** in the **Umbraa** region
+
+Theorized name candidates:  **Ancient Forest**, **Elderwoods**, **Umbraan Wilds**.
 
 This map is heavily unfinished. It's half empty, uses placeholder structures, has already changed in the past and will probably still change. It doesn't represent the final look of the zone.
 
