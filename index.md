@@ -188,7 +188,9 @@ Also known as "the Umbraan child", "the lost child".
 
 Unreleased assets from before 0.177.x
 
-## Enemy faction: **The DArken**
+⠀
+
+### Enemy faction: **The Darken**
 
 "The Darken" seem to be the "echoes", "shadows" sometimes mentioned in lore pieces. This faction is hostile to players.
 
