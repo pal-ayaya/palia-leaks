@@ -192,6 +192,8 @@ Unreleased assets from before 0.177.x
 
 "The Darken" seem to be the "echoes", "shadows" sometimes mentioned in lore pieces. This faction is hostile to players.
 
+⠀
+
 ![Factions config](darken.png)
 
 ⠀
@@ -227,7 +229,8 @@ This is what the board in the center of Kilima is supposed to do.
 
 ## Unused Fire Temple levels
 
-These could have been scrapped in playtesting, who knows.
+These could have been scrapped in playtesting, or may be used later. who knows.
+⠀
 ⠀
 ![Unused maze 1](./FireTempleMaze1.jpg)
 
