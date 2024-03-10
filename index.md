@@ -203,7 +203,6 @@ Unreleased assets from before 0.177.x
 ⠀
 ---
 
-
 ⠀
 
 
@@ -224,8 +223,9 @@ Unreleased assets from before 0.177.x
 ## Community activities
 
 This is what the board in the center of Kilima is supposed to do.
+
 ⠀
-⠀
+
 ![Community center](./communitysomething.png)
 
 ⠀
