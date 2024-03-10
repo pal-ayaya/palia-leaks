@@ -4,7 +4,7 @@
 
 Theorized name candidates:  **Ancient Forest**, **Elderwoods**, **Umbraan Wilds**.
 
-This map is heavily unfinished. It's half empty, uses placeholder structures, has already changed in the past and will probably still change. It doesn't represent the final look of the zone.
+This map is heavily unfinished. It's half empty, uses placeholder structures, [has already changed in the past](#old-az2-concept) and will probably still change. It doesn't represent the final look of the zone.
 
 ![Ancient Forest preview](./ancient-forest-render.png) 
 
@@ -218,6 +218,7 @@ Unreleased assets from before 0.177.x
 ⠀
 
 ---
+
 ⠀
 
 ## Community activities
@@ -236,6 +237,7 @@ This is what the board in the center of Kilima is supposed to do.
 ## Unused Fire Temple levels
 
 These could have been scrapped in playtesting, or may be used later. who knows.
+
 ⠀
 ⠀
 ![Unused maze 1](./FireTempleMaze1.jpg)
