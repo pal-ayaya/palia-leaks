@@ -294,6 +294,10 @@ This area is almost entirely remade in the current version of AZ2.
 
 ![Majiri script alphabet maji](./alphabet.png)
 
-These playing cards have unknown purpose, but they give us the digits 1, 2, 3 and 4.
+These playing cards have unknown purpose, but it appears to be digits in a base-12 system.
+
+1 2 3 4
+5 6 7 8
+9 A B 0
 
 ![Auni's playing cards](./aunis-cards.png)
