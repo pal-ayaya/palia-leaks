@@ -177,8 +177,49 @@ Also known as "the Umbraan child", "the lost child".
 
 ![Wumpus plushie](./wumpus.png) 
 
-⠀
+
+# In older versions
+
+## New map: **Community Center**
+
+![Community center](./CommunityCenter1.jpg)
+
+![Community center](./CommunityCenter2.jpg)
 
 ⠀
 
+---
+
 ⠀
+
+## Community activities
+⠀
+![Community center](./communitysomething.png)
+
+⠀
+
+---
+
+⠀
+
+## Unused Fire Temple levels
+⠀
+![Unused maze 1](./FireTempleMaze1.jpg)
+
+![Unused maze 2](./FireTempleMaze2.jpg)
+
+![Unused parkour section 1](./FireTempleParkour1.jpg)
+
+![Unused parkour section 2](./FireTempleParkour2.jpg)
+
+⠀
+
+---
+
+## New hunting creature codename **Beach walker**
+
+It spits a goo that slows players down.
+
+
+![Beach walker](./beachwalker.jpg)
+
