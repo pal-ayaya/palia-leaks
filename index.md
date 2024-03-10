@@ -179,13 +179,27 @@ Also known as "the Umbraan child", "the lost child".
 
 ⠀
 
-===
+---
+---
 
 ⠀
 
 # In older versions
 
 Unreleased assets from before 0.177.x
+
+## Enemy faction: **The DArken**
+
+"The Darken" seem to be the "echoes", "shadows" sometimes mentioned in lore pieces. This faction is hostile to players.
+
+![Factions config](darken.png)
+
+⠀
+---
+
+
+⠀
+
 
 ## New map: **Community Center**
 
@@ -196,7 +210,6 @@ Unreleased assets from before 0.177.x
 ⠀
 
 ---
-
 ⠀
 
 ## Community activities
@@ -233,4 +246,3 @@ It spits a goo that slows players down.
 
 
 ![Beach walker](./beachwalker.jpg)
-
