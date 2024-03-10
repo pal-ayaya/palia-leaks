@@ -192,9 +192,9 @@ Unreleased assets from before 0.177.x
 
 ⠀
 
-### Enemy faction: **The Darken**
+### Enemy faction: **The Darken** (id=1)
 
-"The Darken" seem to be the "echoes", "shadows" sometimes mentioned in lore pieces. This faction is hostile to players.
+"The Darken" seem to be the "echoes", "shadows" sometimes mentioned in lore pieces. This faction is hostile to players (id=2).
 
 ⠀
 
