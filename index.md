@@ -15,7 +15,7 @@ The similarity of map areas between the two seems to point at the first option.
 
 ⠀
 
-### Elderwoods coastline
+### Beach walker coastline
 
 This area includes a gazebo with a pier, and some static [Beach Walkers](#new-hunting-creature-codename-beach-walker). Possibly a a setup for promotional renders?
 
@@ -23,7 +23,7 @@ This area includes a gazebo with a pier, and some static [Beach Walkers](#new-hu
 
 ⠀
 
-### Elderwoods caves
+### Mushroom caves
 
 Mushroom caves are making a comeback in this verions of the game archive. 
 
@@ -31,14 +31,15 @@ Mushroom caves are making a comeback in this verions of the game archive.
 
 ⠀
 
-### Elderwoods villages
+### Abandoned villages
 
 There are two different village-like areas in the map, with suspended walkways and buildings. The second area appears unfinished. It is safe to assume this is where we meet [Ulfe](#new-npc-ulfe). 
 
 <video src="./files/elderwood_vllages" controls style="width: 100%"></video>
 
+⠀
 
-### Elderwoods landscape
+### General landscape
 
 Map is mostly filled with dense forests with occasional clearings. Moreover, there are multiple distinct structures that will most likely serve a gameplay purpose.
 
