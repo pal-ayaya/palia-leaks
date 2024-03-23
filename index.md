@@ -55,13 +55,13 @@ Map is mostly filled with dense forests with occasional clearings. Moreover, the
 
 Plantable flow trees and a bunch of housing plot flowers.
 
-![0.186 plants](./files/186-plants.jpg)
+![0.186 plants](./files/186-plants.png)
 
 ⠀
 
 Phoenix furniture and, yes - a placeable green cylinder...
 
-![0.186 decor](./files/186-decor.jpg)
+![0.186 decor](./files/186-decor.png)
 
 ⠀
 
