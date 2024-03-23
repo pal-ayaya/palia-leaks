@@ -51,6 +51,28 @@ Map is mostly filled with dense forests with occasional clearings. Moreover, the
 
 ⠀
 
+## Combat update
+
+Staff of the Cosmos is **the final item unlocked through completing Night Sky Temple bundles**. It's filed under "Combat" skill, lathough its purpose is so far unknown.
+
+![Staff of the Cosmos](./files/staffofthecosmos.png)
+
+⠀
+
+---
+
+⠀
+
+Even more Phoenix furniture unlocked by completing the [Rootseeker’s Bundle](#earth-bundle), and, yes - a placeable green cylinder...
+
+![0.186 decor](./files/186-decor.png)
+
+⠀
+
+---
+
+⠀
+
 ## New plants and decor
 
 Plantable flow trees and a bunch of housing plot flowers.
@@ -59,7 +81,7 @@ Plantable flow trees and a bunch of housing plot flowers.
 
 ⠀
 
-Phoenix furniture and, yes - a placeable green cylinder...
+Even more Phoenix furniture unlocked by completing the [Rootseeker’s Bundle](#earth-bundle), and, yes - a placeable green cylinder...
 
 ![0.186 decor](./files/186-decor.png)
 
