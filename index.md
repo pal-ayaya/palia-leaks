@@ -15,7 +15,7 @@ This also hints that the [previous iteration of AZ2](#new-map-az2-in-the-umbraa-
 
 ### Beach walker coastline
 
-This area includes a gazebo with a pier, and some static [Beach Walkers](#new-hunting-creature-codename-beach-walker). Possibly a a setup for promotional renders?
+This area includes a gazebo with a pier, and some static [Beach Walkers](#new-hunting-creature-codename-beach-walker). Possibly a setup for promotional renders?
 
 <video src="./files/elderwood_beach.mov" controls style="width: 100%"></video>
 
@@ -41,7 +41,7 @@ There are two different village-like areas in the map, with suspended walkways a
 
 Map is mostly filled with dense forests with occasional clearings. Moreover, there are multiple distinct structures that will most likely serve a gameplay purpose.
 
-![Elderwood collage](./files/elderwood-collage.jpg) 
+[![Elderwood collage](./files/elderwood-collage.jpg)](./files/elderwood-collage.jpg)
 
 <video src="./files/elderwood_landscape.mov" controls style="width: 100%"></video>
 
@@ -55,7 +55,7 @@ Map is mostly filled with dense forests with occasional clearings. Moreover, the
 
 [Galdur seed maker](#reward-ancient-galdur-statue-galdur-seed-maker) from the previous patch is most likely going to become an NPC, judging by the presence of its portrait in the game files. This means players will be able to level up friendship with the golem.
 
-![Gardener portrait](./files/gardenerportrait.png) 
+![Gardener portrait](./files/gardenerportrait.png)]
 
 ⠀
 
@@ -68,7 +68,7 @@ Map is mostly filled with dense forests with occasional clearings. Moreover, the
 New summer event was spotted. Some of the activities involve competitions in gathering colorful shells, and treasure hunts. Not much more is known other that it takes place on a separate island map.
 
 
-![Summer island map](./files/summerisland.png) 
+[![Summer island map](./files/summerisland.png)](./files/summerisland.png) 
 
 ⠀
 
@@ -80,7 +80,7 @@ New summer event was spotted. Some of the activities involve competitions in gat
 
 A hand-drawn map of the Air Temple was added, with blue eggs required to progress the main quest clearly marked. 
 
-![Air temple map](./files/air_temple_map.jpg) 
+[![Air temple map](./files/air_temple_map.jpg)](./files/air_temple_map.jpg) 
 
 ⠀
 
@@ -97,7 +97,7 @@ Theorized name candidates:  **Ancient Forest**, **Elderwoods**, **Umbraan Wilds*
 
 This map is heavily unfinished. It's half empty, uses placeholder structures, [has already changed in the past](#old-az2-concept) and will probably still change. It doesn't represent the final look of the zone.
 
-![Ancient Forest preview](./files/ancient-forest-render.png) 
+[![Ancient Forest preview](./files/ancient-forest-render.png)](./files/ancient-forest-render.png) 
 
 <video src="./files/ancient-forest-walkthrough.mov" controls style="width: 100%"></video>
 
@@ -111,7 +111,9 @@ This map is heavily unfinished. It's half empty, uses placeholder structures, [h
 
 ### Landscape vs working draft
 
-![Top-down view](./files/ancient-forest-overlay.jpg) ![Graphical map](./files/ancient-forest-map.jpg) 
+[![Top-down view](./files/ancient-forest-overlay.jpg)](./files/ancient-forest-overlay.jpg) 
+
+[![Graphical map](./files/ancient-forest-map.jpg)](./files/ancient-forest-map.jpg) 
 
 ⠀
 
@@ -301,9 +303,9 @@ Unreleased assets from before 0.177.x
 
 <video src="./files/community-center.mov" controls style="width: 100%"></video>
 
-![Community center](./files/CommunityCenter1.jpg)
+[![Community center](./files/CommunityCenter1.jpg)](./files/CommunityCenter1.jpg)
 
-![Community center](./files/CommunityCenter2.jpg)
+[![Community center](./files/CommunityCenter2.jpg)](./files/CommunityCenter2.jpg)
 
 ⠀
 
@@ -316,7 +318,7 @@ Unreleased assets from before 0.177.x
 This is what the board in the center of Kilima is supposed to do.
 
 
-![Community center](./files/communitysomething.png)
+![Community activities](./files/communitysomething.png)
 
 ⠀
 
@@ -330,13 +332,13 @@ These could have been scrapped in playtesting, or may be used later. who knows.
 
 ⠀
 ⠀
-![Unused maze 1](./files/FireTempleMaze1.jpg)
+[![Unused maze 1](./files/FireTempleMaze1.jpg)](./files/FireTempleMaze1.jpg)
 
-![Unused maze 2](./files/FireTempleMaze2.jpg)
+[![Unused maze 2](./files/FireTempleMaze2.jpg)](./files/FireTempleMaze2.jpg)
 
-![Unused parkour section 1](./files/FireTempleParkour1.jpg)
+[![Unused parkour section 1](./files/FireTempleParkour1.jpg)](./files/FireTempleParkour1.jpg)
 
-![Unused parkour section 2](./files/FireTempleParkour2.jpg)
+[![Unused parkour section 2](./files/FireTempleParkour2.jpg)](./files/FireTempleParkour2.jpg)
 
 
 ⠀
