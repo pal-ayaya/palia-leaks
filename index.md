@@ -6,7 +6,7 @@ Theorized name candidates:  **Ancient Forest**, **Elderwoods**, **Umbraan Wilds*
 
 This map is heavily unfinished. It's half empty, uses placeholder structures, [has already changed in the past](#old-az2-concept) and will probably still change. It doesn't represent the final look of the zone.
 
-![Ancient Forest preview](./ancient-forest-render.png) 
+![Ancient Forest preview](./files/ancient-forest-render.png) 
 
 <video src="./ancient-forest-walkthrough.mov" controls style="width: 100%"></video>
 
@@ -20,13 +20,13 @@ This map is heavily unfinished. It's half empty, uses placeholder structures, [h
 
 ### Landscape vs working draft
 
-![Top-down view](./ancient-forest-overlay.jpg) ![Graphical map](./ancient-forest-map.jpg) 
+![Top-down view](./files/ancient-forest-overlay.jpg) ![Graphical map](./files/ancient-forest-map.jpg) 
 
 ⠀
 
 ### New ore: **Illuminium**
 
-![Illuminium ingot](./illuminum-ingot.png) ![Illuminium ore](./illuminum-ore.png)
+![Illuminium ingot](./files/illuminum-ingot.png) ![Illuminium ore](./files/illuminum-ore.png)
 
 ⠀
 
@@ -48,7 +48,7 @@ This map is heavily unfinished. It's half empty, uses placeholder structures, [h
   - Beehive and Honey
 
 
-![Gatherables in ancient forest](./plants.png)
+![Gatherables in ancient forest](./files/plants.png)
 
 - Bugs
   - Butterfly: Dayshadow butterfly, Moth Kitsuu, Cottonhop butterfly, Vampire butterfly,
@@ -77,8 +77,8 @@ Brightshroom Oranda, Inyrevn Mermaid, Mullet Minnow...
 
 This is also not final. Large parts of the temple are still missing decoration and prop clutter; the pipe section is only roughly blueprinted and uses placeholder chest assets.
 
-<video src="./earth-temple.mov" controls style="width: 100%"></video>
-<video src="./earth-temple-2.mov" controls style="width: 100%"></video>
+<video src="./files/earth-temple.mov" controls style="width: 100%"></video>
+<video src="./files/earth-temple-2.mov" controls style="width: 100%"></video>
 
 ⠀
 
@@ -111,13 +111,13 @@ This is also not final. Large parts of the temple are still missing decoration a
 
 ### Reward: **Ancient Galdur Statue** ("Galdur seed maker")
 
-![Ancient Galdur statue](./galdur-seed-maker.png) 
+![Ancient Galdur statue](./files/galdur-seed-maker.png) 
 
 ⠀
 
 ### Reward: **Galdur bobber**
 
-![Galdur bobber](./galdur-bobber.png) 
+![Galdur bobber](./files/galdur-bobber.png) 
 
 ⠀
 
@@ -129,7 +129,7 @@ This is also not final. Large parts of the temple are still missing decoration a
 
 Also known as "the Umbraan child", "the lost child".
 
-![Ulfe front](./ulfe-front.png) ![Ulfe back](./ulfe-back.png) 
+![Ulfe front](./files/ulfe-front.png) ![Ulfe back](./files/ulfe-back.png) 
 
 ⠀
 
@@ -141,13 +141,13 @@ Also known as "the Umbraan child", "the lost child".
 
 ### Courtyard
 
-![View ride dashboard](./courtyard.png)
+![View ride dashboard](./files/courtyard.png)
 
 ⠀
 
 ### Dormer window (goes on the roof)
 
-![View ride dashboard](./dormer-window.png)
+![View ride dashboard](./files/dormer-window.png)
 
 ⠀
 
@@ -159,25 +159,25 @@ Also known as "the Umbraan child", "the lost child".
 
 ### Flowers and bushes are coming
 
-![Flowers](./flowers.png)
+![Flowers](./files/flowers.png)
 
 ⠀
 
 ### More referral rewards
 
-![referral pergolas](./referrer-rewards.png)
+![referral pergolas](./files/referrer-rewards.png)
 
 ⠀
 
 ### Plantable trees of various sizes
 
-![Treeeeeeees](./trees.png)
+![Treeeeeeees](./files/trees.png)
 
 ⠀
 
 ### Discord rewards
 
-![Wumpus plushie](./wumpus.png) 
+![Wumpus plushie](./files/wumpus.png) 
 
 ⠀
 
@@ -198,7 +198,7 @@ Unreleased assets from before 0.177.x
 
 ⠀
 
-![Factions config](darken.png)
+![Factions config](./files/darken.png)
 
 ⠀
 ---
@@ -208,11 +208,11 @@ Unreleased assets from before 0.177.x
 
 ## New map: **Community Center**
 
-<video src="./community-center.mov" controls style="width: 100%"></video>
+<video src="./files/community-center.mov" controls style="width: 100%"></video>
 
-![Community center](./CommunityCenter1.jpg)
+![Community center](./files/CommunityCenter1.jpg)
 
-![Community center](./CommunityCenter2.jpg)
+![Community center](./files/CommunityCenter2.jpg)
 
 ⠀
 
@@ -225,7 +225,7 @@ Unreleased assets from before 0.177.x
 This is what the board in the center of Kilima is supposed to do.
 
 
-![Community center](./communitysomething.png)
+![Community center](./files/communitysomething.png)
 
 ⠀
 
@@ -239,13 +239,13 @@ These could have been scrapped in playtesting, or may be used later. who knows.
 
 ⠀
 ⠀
-![Unused maze 1](./FireTempleMaze1.jpg)
+![Unused maze 1](./files/FireTempleMaze1.jpg)
 
-![Unused maze 2](./FireTempleMaze2.jpg)
+![Unused maze 2](./files/FireTempleMaze2.jpg)
 
-![Unused parkour section 1](./FireTempleParkour1.jpg)
+![Unused parkour section 1](./files/FireTempleParkour1.jpg)
 
-![Unused parkour section 2](./FireTempleParkour2.jpg)
+![Unused parkour section 2](./files/FireTempleParkour2.jpg)
 
 
 ⠀
@@ -259,7 +259,7 @@ These could have been scrapped in playtesting, or may be used later. who knows.
 It spits a goo that slows players down.
 
 
-![Beach walker](./beachwalker.jpg)
+![Beach walker](./files/beachwalker.jpg)
 
 ⠀
 
@@ -272,9 +272,9 @@ Air temple used to have extensive climbing sections. This was most likely remove
 
 The floating tubes are spinning boulders, the rectangular platforms are moving platforms.
 
-<video src="./old-air-temple-1.mov" controls style="width: 100%"></video>
-<video src="./old-air-temple-2.mov" controls style="width: 100%"></video>
-<video src="./old-air-temple-3.mov" controls style="width: 100%"></video>
+<video src="./files/old-air-temple-1.mov" controls style="width: 100%"></video>
+<video src="./files/old-air-temple-2.mov" controls style="width: 100%"></video>
+<video src="./files/old-air-temple-3.mov" controls style="width: 100%"></video>
 ⠀
 
 ---
@@ -284,8 +284,8 @@ The floating tubes are spinning boulders, the rectangular platforms are moving p
 
 This area is almost entirely remade in the current version of AZ2.
 
-<video src="./az2-wip-1.mov" controls style="width: 100%"></video>
-<video src="./az2-wip.mov" controls style="width: 100%"></video>
+<video src="./files/az2-wip-1.mov" controls style="width: 100%"></video>
+<video src="./files/az2-wip.mov" controls style="width: 100%"></video>
 ⠀
 
 ---
@@ -300,11 +300,11 @@ K L M N O
 P Q R S T  
 U V W X Y  
 
-![Majiri script alphabet maji](./alphabet.png)
+![Majiri script alphabet maji](./files/alphabet.png)
 
 "Z" is not present in this tileset. It looks like this:
 
-![Majiri script letter Z](./majiri-script-letter-z.png)
+![Majiri script letter Z](./files/majiri-script-letter-z.png)
 
 These playing cards have unknown purpose, but it appears to be digits in a base-12 system.
 
@@ -312,4 +312,4 @@ These playing cards have unknown purpose, but it appears to be digits in a base-
 5 6 7 8  
 9 A B 0  
 
-![Auni's playing cards](./aunis-cards.png)
+![Auni's playing cards](./files/aunis-cards.png)
