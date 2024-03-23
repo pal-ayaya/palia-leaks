@@ -8,13 +8,13 @@ This map is heavily unfinished. It's half empty, uses placeholder structures, [h
 
 ![Ancient Forest preview](./files/ancient-forest-render.png) 
 
-<video src="./ancient-forest-walkthrough.mov" controls style="width: 100%"></video>
+<video src="./files/ancient-forest-walkthrough.mov" controls style="width: 100%"></video>
 
 ⠀
 
 ### Map size in perspective
 
-<video src="./ancient-forest-scale.mov" controls style="width: 100%"></video>
+<video src="./files/ancient-forest-scale.mov" controls style="width: 100%"></video>
 
 ⠀
 
