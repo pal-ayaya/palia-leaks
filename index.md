@@ -53,7 +53,7 @@ Map is mostly filled with dense forests with occasional clearings. Moreover, the
 
 ## Combat update
 
-Staff of the Cosmos is **the final item unlocked by completing Night Sky Temple bundles**. It's filed under "Combat" skill, lathough its purpose is so far unknown.
+Staff of the Cosmos is **the final item unlocked by completing Night Sky Temple bundles**. It's filed under "Combat" skill, but its purpose is so far unknown.
 
 ![Staff of the Cosmos](./files/staffofthecosmos.png)
 
