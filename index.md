@@ -73,6 +73,18 @@ New summer event was spotted. Some of the activities involve competitions in gat
 ⠀
 
 ---
+
+⠀
+
+## Air temple map
+
+A hand-drawn map of the Air Temple was added, with blue eggs required to progress the main quest clearly marked. 
+
+![Air temple map](./files/air_temple_map.jpg) 
+
+⠀
+
+---
 ---
 
 ⠀
