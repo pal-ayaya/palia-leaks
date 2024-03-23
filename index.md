@@ -4,7 +4,9 @@
 
 AZ2 has changed again. It now includes enough trees to be called Elderwoods.
 
-This also hints that the previous iteration of AZ2, that included a fortress and a broken aqueduct, must have been a bad merge. Either Ancient Forest was scrapped in favor of Elderwoods, or these are two separate maps. The similarity of map areas between the two seems to point at the first option.
+This also hints that the previous iteration of AZ2, that included a fortress and a broken aqueduct, must have been a bad merge. Either Ancient Forest was scrapped in favor of Elderwoods, or these are two separate maps. 
+
+The similarity of map areas between the two seems to point at the first option.
 
 
 ![Elderwood collage](./files/Elderwoods.jpg) 
