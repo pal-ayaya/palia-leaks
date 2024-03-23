@@ -15,7 +15,7 @@ This also hints that the previous iteration of AZ2, that included a fortress and
 
 ### Elderwoods coastline
 
-This area includes a gazebo with a pier, and some static [Beach Walkers](#new-hunting-creature-codename-beach-walker). This may be a setup for promotional renders.
+This area includes a gazebo with a pier, and some static [Beach Walkers](#new-hunting-creature-codename-beach-walker). Possibly a a setup for promotional renders?
 
 <video src="./files/elderwood_beach.mov" controls style="width: 100%"></video>
 
