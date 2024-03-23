@@ -1,3 +1,79 @@
+# 0.178
+
+## Elderwoods
+
+AZ2 has changed again. It now includes enough trees to be called Elderwoods, which also hints that the previous iteration of AZ@ that included a fortress and a broken aqueduct must have been a broken merge. Therefore it's safe to assume either Ancient Fortress was scrapped in favor of Elderwoods, or it's a separate map. However, the similarity of map areas between the two versions seems to point at the first option.
+
+
+![Elderwood collage](./files/Elderwoods.jpg) 
+
+<video src="./files/elderwood_mapspin.mov" controls style="width: 100%"></video>
+
+⠀
+
+### Elderwoods coastline
+
+This area includes a gazebo with a pier, and some static [Beach Walkers](#new-hunting-creature-codename-beach-walker). This may be a setup for promotional renders.
+
+<video src="./files/elderwood_beach.mov" controls style="width: 100%"></video>
+
+⠀
+
+### Elderwoods caves
+
+Mushroom caves are making a comeback in this verions of the game archive. 
+
+<video src="./files/elderwood_cave.mov" controls style="width: 100%"></video>
+
+⠀
+
+### Elderwoods villages
+
+There are two different village-like areas in the map, with suspended walkways and buildings. The second area appears unfinished. It is safe to assume this is where we meet [Ulfe](#new-npc-ulfe). 
+
+<video src="./files/elderwood_cave.mov" controls style="width: 100%"></video>
+
+
+### Elderwoods landscape
+
+Map is mostly filled with dense forests with occasional clearings. Moreover, there are multiple distinct structures that will most likely serve a gameplay purpose.
+
+![Elderwood collage](./files/elderwood-collage.jpg) 
+
+<video src="./files/elderwood_landscape.mov" controls style="width: 100%"></video>
+
+⠀
+
+---
+
+⠀
+
+## New NPC: Gardener
+
+[Galdur seed maker](#reward-ancient-galdur-statue-galdur-seed-maker) from the previous patch is most likely going to become an NPC, judging by the presence of its portrait in the game files. This means players will be able to level up friendship with the golem.
+
+![Gardener portrait](./files/gardenerportrait.png) 
+
+⠀
+
+---
+
+⠀
+
+## Summer event
+
+New summer event was spotted. Some of the activities involve competitions in gathering colorful shells, and treasure hunts. Not much more is known other that it takes place on a separate island map.
+
+
+![Summer island map](./files/summerisland.png) 
+
+⠀
+
+---
+---
+
+⠀
+
 # 0.177.1 
 
 ## New map: **AZ2** in the **Umbraa** region
