@@ -51,6 +51,24 @@ Map is mostly filled with dense forests with occasional clearings. Moreover, the
 
 ⠀
 
+## New plants and decor
+
+Plantable flow trees and a bunch of housing plot flowers.
+
+![0.186 plants](./files/186-plants.jpg)
+
+⠀
+
+Phoenix furniture and, yes - a placeable green cylinder...
+
+![0.186 decor](./files/186-decor.jpg)
+
+⠀
+
+---
+
+⠀
+
 ## New NPC: **Gardener**
 
 [Galdur seed maker](#reward-ancient-galdur-statue-galdur-seed-maker) from the previous patch is most likely going to become an NPC, judging by the presence of its portrait in the game files. This means players will be able to level up friendship with the golem.
