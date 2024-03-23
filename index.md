@@ -33,7 +33,7 @@ Mushroom caves are making a comeback in this verions of the game archive.
 
 There are two different village-like areas in the map, with suspended walkways and buildings. The second area appears unfinished. It is safe to assume this is where we meet [Ulfe](#new-npc-ulfe). 
 
-<video src="./files/elderwood_vllages" controls style="width: 100%"></video>
+<video src="./files/elderwood_vllages.mov" controls style="width: 100%"></video>
 
 ⠀
 
