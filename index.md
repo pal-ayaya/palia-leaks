@@ -7,7 +7,7 @@ AZ2 has changed again. It now includes enough trees to be called Elderwoods.
 This also hints that the [previous iteration of AZ2](#new-map-az2-in-the-umbraa-region), that included a fortress and a broken aqueduct, must have been a bad merge. Either Ancient Forest was scrapped in favor of Elderwoods, or these are two separate maps. 
 
 
-![Elderwood collage](./files/Elderwoods.jpg) 
+[![Elderwood collage](./files/Elderwoods.jpg)](./files/Elderwoods.jpg) 
 
 <video src="./files/elderwood_mapspin.mov" controls style="width: 100%"></video>
 
