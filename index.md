@@ -63,16 +63,6 @@ Map is mostly filled with dense forests with occasional clearings. Moreover, the
 
 ⠀
 
-Even more Phoenix furniture unlocked by completing the [Rootseeker’s Bundle](#earth-bundle), and, yes - a placeable green cylinder...
-
-![0.186 decor](./files/186-decor.png)
-
-⠀
-
----
-
-⠀
-
 ## New plants and decor
 
 Plantable flow trees and a bunch of housing plot flowers.
