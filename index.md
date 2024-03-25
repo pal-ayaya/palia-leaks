@@ -85,7 +85,7 @@ Even more Phoenix furniture unlocked by completing the [Rootseeker’s Bundle](#
 
 [Galdur seed maker](#reward-ancient-galdur-statue-galdur-seed-maker) from the previous patch is most likely going to become an NPC, judging by the presence of its portrait in the game files. This means players will be able to level up friendship with the golem.
 
-![Gardener portrait](./files/gardenerportrait.png)]
+![Gardener portrait](./files/gardenerportrait.png)
 
 ⠀
 
