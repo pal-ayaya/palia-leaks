@@ -181,7 +181,7 @@ Brightshroom Oranda, Inyrevn Mermaid, Mullet Minnow...
 
 ## Earth temple concept
 
-Compared to the released version, some side areas have become inaccessible, and the whole pipe maze section is missing.
+Compared to the released version, some side areas have become inaccessible, and the whole pipe maze section is missing. The final galdur-gardener area was also changed completely.
 
 <video src="./files/earth-temple.mov" controls style="width: 100%"></video>
 <video src="./files/earth-temple-2.mov" controls style="width: 100%"></video>
