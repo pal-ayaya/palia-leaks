@@ -104,11 +104,11 @@ A hand-drawn map of the Air Temple was added, with blue eggs required to progres
 
 # 0.177.1 
 
-## New map: **AZ2** in the **Umbraa** region
+## 4th map? **Ancient Forest?**
 
-Theorized name candidates:  **Ancient Forest**, **Elderwoods**, **Umbraan Wilds**.
+This map was shipped in 0.177.x under `AZ2`, but it's different from the current AZ2. It's unknown if it was scrapped in favor of Elderwoods, or if it's indeed the 4th map. The  rocky area seems to just be a chunk merge error in the .pak, and belongs to the current AZ2.
 
-This map is heavily unfinished. It's half empty, uses placeholder structures, [has already changed in the past](#old-az2-concept) and will probably still change. It doesn't represent the final look of the zone.
+The map is half empty and uses placeholder pillar structures. It most likely doesn't represent the final look of the zone.
 
 [![Ancient Forest preview](./files/ancient-forest-render.png)](./files/ancient-forest-render.png) 
 
