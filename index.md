@@ -81,18 +81,6 @@ Even more Phoenix furniture unlocked by completing the [Rootseeker’s Bundle](#
 
 ⠀
 
-## New NPC: **Gardener**
-
-[Galdur seed maker](#reward-ancient-galdur-statue-galdur-seed-maker) from the previous patch is most likely going to become an NPC, judging by the presence of its portrait in the game files. This means players will be able to level up friendship with the golem.
-
-![Gardener portrait](./files/gardenerportrait.png)
-
-⠀
-
----
-
-⠀
-
 ## Summer event
 
 New summer event was spotted. Some of the activities involve competitions in gathering colorful shells, and treasure hunts. Not much more is known other that it takes place on a separate island map.
@@ -196,51 +184,12 @@ Brightshroom Oranda, Inyrevn Mermaid, Mullet Minnow...
 
 ⠀
 
-## Earth temple: **Vault of the Roots**
+## Earth temple concept
 
-This is also not final. Large parts of the temple are still missing decoration and prop clutter; the pipe section is only roughly blueprinted and uses placeholder chest assets.
+Compared to the released version, some side areas have become inaccessible, and the whole pipe maze section is missing.
 
 <video src="./files/earth-temple.mov" controls style="width: 100%"></video>
 <video src="./files/earth-temple-2.mov" controls style="width: 100%"></video>
-
-⠀
-
-### Earth bundle
-
-**Reward: Ancient Galdur Statue** (GaldurSeedMaker)
-
-> This bears the face of a familiar friend. At least this version is less talkative... for now
-
-- Prospector’s Pal Bundle (**reward: Phoenix Flooring**)
-  - Emerald
-  - Jasper
-  - Gold Bar (3)
-  - Palium bar (20)
-
-- Creatures of the Abyss Bundle (**reward: Galdur Bobber**)
-  - Stonefish
-  - Hypnotic Moray
-  - Ancient Amber Beetle
-  - Leafstalker Mantis
-
-- Fruits of the Earth Bundle (**reward: recipe - Stuffed Tomatoes**)
-  - Muujin Bahari
-  - Bacon-Stuffed Mushrooms
-  - Apple (100)
-  - Brightshroom (20)
-
-- Rootseeker's Bundle (**reward: recipe - Phoenix Floor Planter**)
-  - Rootseeker Medallion (6)
-
-### Reward: **Ancient Galdur Statue** ("Galdur seed maker")
-
-![Ancient Galdur statue](./files/galdur-seed-maker.png) 
-
-⠀
-
-### Reward: **Galdur bobber**
-
-![Galdur bobber](./files/galdur-bobber.png) 
 
 ⠀
 
@@ -278,23 +227,9 @@ Also known as "the Umbraan child", "the lost child".
 
 ⠀
 
-## Decor and rewards
-
-### Flowers and bushes are coming
-
-![Flowers](./files/flowers.png)
-
-⠀
-
 ### More referral rewards
 
 ![referral pergolas](./files/referrer-rewards.png)
-
-⠀
-
-### Plantable trees of various sizes
-
-![Treeeeeeees](./files/trees.png)
 
 ⠀
 
@@ -398,17 +333,7 @@ The floating tubes are spinning boulders, the rectangular platforms are moving p
 <video src="./files/old-air-temple-1.mov" controls style="width: 100%"></video>
 <video src="./files/old-air-temple-2.mov" controls style="width: 100%"></video>
 <video src="./files/old-air-temple-3.mov" controls style="width: 100%"></video>
-⠀
 
----
-
-⠀
-## Old AZ2 concept
-
-This area is almost entirely remade in the current version of AZ2.
-
-<video src="./files/az2-wip-1.mov" controls style="width: 100%"></video>
-<video src="./files/az2-wip.mov" controls style="width: 100%"></video>
 ⠀
 
 ---
