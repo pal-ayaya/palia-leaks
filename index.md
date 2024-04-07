@@ -106,7 +106,7 @@ A hand-drawn map of the Air Temple was added, with blue eggs required to progres
 
 ## 4th map? **Ancient Forest?**
 
-This map was shipped in 0.177.x under `AZ2`, but it's different from the current AZ2. It's unknown if it was scrapped in favor of Elderwoods, or if it's indeed the 4th map. The  rocky area seems to just be a chunk merge error in the .pak, and belongs to the current AZ2.
+This map was shipped in 0.177.x under `AZ2`, but it's different from the current AZ2. It's unknown if it was scrapped in favor of Elderwoods, or if it's indeed the 4th map. The  rocky area int the back seems to just be a chunk merge error, and belongs to the current AZ2.
 
 The map is half empty and uses placeholder pillar structures. It most likely doesn't represent the final look of the zone.
 
