@@ -78,7 +78,7 @@ There's now a placeable green cylinder...
 
 ## Summer event
 
-New summer event was spotted. Some of the activities involve competitions in gathering colorful shells, and treasure hunts. Not much more is known other that it takes place on a separate island map.
+New summer event was spotted. Some of the activities involve competitions in gathering colorful shells, and treasure hunts. Not much more is known, other than that it takes place on a separate island map.
 
 
 [![Summer island map](./files/summerisland.png)](./files/summerisland.png) 
