@@ -70,7 +70,47 @@ Upcoming tool sets include Empyreal, Froggy, LEafy Weave and Spring Sakura, for 
 
 ⠀
 
-## New decor: **growable set**, **placeable books** and more
+## **Beach Walkers** are called **Ogopuu**
+
+That one Elderwoods specific [hunting creature](#new-hunting-creature-codename-beach-walker) now has a confirmed name. They're called **Ogopuu** and drop scales.
+
+![Ogopuu poo, I mean scales. Yes.](./files/poopooscales.png)
+
+⠀
+
+---
+
+⠀
+
+## Summer event(?): **Prismbeard**'s ship
+
+While we still don't know if the [Summer Event](#summer-event) is cancelled due S6's to recent acquisition (and because it's already summer...), a Grimalkin ship has been found in the game files, along with some further hints about Prismbeard's story.
+
+file TBD
+
+![Poster of Prismbeard. Wanted.](./files/prismbeard.png)
+
+
+⠀
+
+---
+
+⠀
+
+## **AZ2**: what exactly is **Ghost Village**?
+
+While **Elderwoods** is pretty much confirmed, this map file that aligns with the most recent look of [AZ2](#az2-is-elderwoods) was also spotted. But - confusingly, it's called "Ghost Village".
+
+![Ghost village map](./files/gostvillage.png)
+
+⠀
+
+---
+
+
+⠀
+
+## New decor: **growable set**, **placeable books**, and more
 
 6 new furniture items that can be planted and take 3 stages to grow.
 
@@ -80,10 +120,67 @@ Upcoming tool sets include Empyreal, Froggy, LEafy Weave and Spring Sakura, for 
 
 ⠀
 
-*Cat pillow.*
+### Cat pillow.
+
+Please meow back.
 
 ![Pillows](./files/pillows.png)
 ⠀
+⠀
+
+### Summer furniture set
+
+image TBD
+
+A new furniture set including the following decor items:
+ - popsicles
+ - toy sailboat
+ - beach ball
+ - sand castle
+ - camera
+ - surfboard
+ - flip flops
+ - coconut drink
+ - towels
+ - sunglasses
+ - and more
+
+⠀
+### Soundscapes
+
+Currently in development, ability to play one of 8 music tracks in each room of the player's house.
+
+mp3 files TBD
+
+Track names:
+
+ - Feather Dance
+ - First Rainy Day
+ - Goodnight
+ - Lost in Thoughts
+ - Morning in Bahari
+ - Out There Things
+ - Purple Waters
+ - Where Are You
+
+⠀
+
+---
+
+⠀
+
+## More **housing biomes** 
+
+Upcoming biomes include: 
+
+ - Air temple
+ - Fire temple
+ - Dragon Shrine
+ - Elderwood
+ - Bahari cave
+ - Ancient Ruins
+ - Volcano (actual one)
+
 ⠀
 
 ---
