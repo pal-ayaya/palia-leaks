@@ -14,19 +14,21 @@ Expect aggressive monetization. And now, back to regular programming.
 
 Name plate backgrounds are the new cool thing and they're coming to a premium shop near you. These come in 5 tiers, each tier more visually cluttered than the previous one. Pictured - tier 5.
 
-![Tier 5 nameplate "Amaze"](./files/nameplate-amaze-t5.png)]
+⠀
+
+![Tier 5 nameplate "Amaze"](./files/nameplate-amaze-t5.png)
 
 ⠀
 
-![Tier 5 nameplate "Cool"](./files/nameplate-cool-t5.png)]
+![Tier 5 nameplate "Cool"](./files/nameplate-cool-t5.png)
 
 ⠀
 
-![Tier 5 nameplate "Cute"](./files/nameplate-cute-t5.png)]
+![Tier 5 nameplate "Cute"](./files/nameplate-cute-t5.png)
 
 ⠀
 
-![Tier 5 nameplate "Heart"](./files/nameplate-heart-t5.png)]
+![Tier 5 nameplate "Heart"](./files/nameplate-heart-t5.png)
 
 
 
@@ -34,11 +36,11 @@ Name plate backgrounds are the new cool thing and they're coming to a premium sh
 
 As usual, this pet comes in four variants.
 
-![Pollen pup pet set](./files/pollenpup-set.png)]
+![Pollen pup pet set](./files/pollenpup-set.png)
 
 ⠀
 
-![Pollen pup pet icons](./files/pollenpup.png)]
+![Pollen pup pet icons](./files/pollenpup.png)
 ⠀
 
 ---
@@ -48,19 +50,19 @@ As usual, this pet comes in four variants.
 
 Upcoming tool sets include Empyreal, Froggy, LEafy Weave and Spring Sakura, for all your wallet emptying needs.
 
-![Empyreal tool set](./files/tools-empyreal.png)]
+![Empyreal tool set](./files/tools-empyreal.png)
 
 ⠀
 
-![Froggy tool set ](./files/tools-froggy.png)]
+![Froggy tool set ](./files/tools-froggy.png)
 
 ⠀
 
-![Leafy Weave tool set ](./files/tools-leafyweave.png)]
+![Leafy Weave tool set ](./files/tools-leafyweave.png)
 
 ⠀
 
-![Spring Sakura tool set ](./files/tools-springsakura.png)]
+![Spring Sakura tool set ](./files/tools-springsakura.png)
 
 ⠀
 
@@ -82,7 +84,7 @@ Upcoming tool sets include Empyreal, Froggy, LEafy Weave and Spring Sakura, for 
 
 *Cat pillow.*
 
-![Pillows](./files/pillows.png)]
+![Pillows](./files/pillows.png)
 ⠀
 ⠀
 
