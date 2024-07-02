@@ -46,7 +46,7 @@ As usual, this pet comes in four variants.
 
 ## Monetization: more **tool sets**
 
-Upcoming tool sets include Empyreal, Froggy, LEafy Weave and Spring Sakura, for all your wallet emptying needs.
+Upcoming tool sets include "Empyreal", "Froggy", "Leafy Weave" and "Spring Sakura", for all your wallet emptying needs.
 
 ![Empyreal tool set](./files/tools-empyreal.png)
 
