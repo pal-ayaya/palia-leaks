@@ -30,38 +30,6 @@ Name plate backgrounds are the new cool thing and they're coming to a premium sh
 
 ⠀
 
-## Monetization: **Pollen Pup** pet
-
-As usual, this pet comes in four variants.
-
-![Pollen pup pet set](./files/pollenpup-set.png)
-
-![Pollen pup pet icons](./files/pollenpup.png)
-
-⠀
-
----
-
-⠀
-
-## Monetization: more **tool sets**
-
-Upcoming tool sets include "Empyreal", "Froggy", "Leafy Weave" and "Spring Sakura", for all your wallet emptying needs.
-
-![Empyreal tool set](./files/tools-empyreal.png)
-
-![Froggy tool set ](./files/tools-froggy.png)
-
-![Leafy Weave tool set ](./files/tools-leafyweave.png)
-
-![Spring Sakura tool set ](./files/tools-springsakura.png)
-
-⠀
-
----
-
-⠀
-
 ## **Beach Walkers** are called **Ogopuu**
 
 That one Elderwoods specific [hunting creature](#new-hunting-creature-codename-beach-walker) now has a confirmed name. They're called **Ogopuu** and drop scales.
