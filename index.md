@@ -125,17 +125,16 @@ Please meow back.
 image TBD
 
 A new furniture set including the following decor items:
- - popsicles
- - toy sailboat
- - beach ball
- - sand castle
- - camera
- - surfboard
- - flip flops
- - coconut drink
- - towels
- - sunglasses
- - and more
+ - Popsicles
+ - Toy sailboat
+ - Beach ball
+ - Sand castle
+ - Camera
+ - Surfboard
+ - Flip flops
+ - Towels
+ - Sunglasses
+ - ...and more
 
 ⠀
 ### Soundscapes
