@@ -70,29 +70,8 @@ While **Elderwoods** is pretty much confirmed, this map file that aligns with th
 
 ⠀
 
-## New decor: **growable set**, **placeable books**, and more
+## New decor: **summer furniture set**, **soundscapes** and more
 
-6 new furniture items that can be planted and take 3 stages to grow.
-
-[![Growable furniture](./files/growables.png)](./files/growables.png) 
-
-⠀
-
-### Nerd stuff.
-
-![Book decor](./files/books.png)
-
-⠀
-
-### Cat pillow.
-
-Please meow back.
-
-![Pillows](./files/pillows.png)
-⠀
-⠀
-
-### Summer furniture set
 
 image TBD
 
