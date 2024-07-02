@@ -36,8 +36,6 @@ As usual, this pet comes in four variants.
 
 ![Pollen pup pet set](./files/pollenpup-set.png)
 
-⠀
-
 ![Pollen pup pet icons](./files/pollenpup.png)
 
 ⠀
