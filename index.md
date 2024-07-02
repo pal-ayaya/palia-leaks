@@ -10,7 +10,7 @@ Expect aggressive monetization. And now, back to regular programming.
 
 ⠀
 
-## Monetization: **Nameplate decorations**
+## Monetization: **Player name decorations**
 
 Name plate backgrounds are the new cool thing and they're coming to a premium shop near you. These come in 5 tiers, each tier more visually cluttered than the previous one. Pictured - tier 5.
 
