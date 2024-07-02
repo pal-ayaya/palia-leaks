@@ -30,7 +30,11 @@ Name plate backgrounds are the new cool thing and they're coming to a premium sh
 
 ![Tier 5 nameplate "Heart"](./files/nameplate-heart-t5.png)
 
+⠀
 
+---
+
+⠀
 
 ## Monetization: **Pollen Pup** pet
 
@@ -41,11 +45,13 @@ As usual, this pet comes in four variants.
 ⠀
 
 ![Pollen pup pet icons](./files/pollenpup.png)
+
 ⠀
 
 ---
 
 ⠀
+
 ## Monetization: more **tool sets**
 
 Upcoming tool sets include Empyreal, Froggy, LEafy Weave and Spring Sakura, for all your wallet emptying needs.
