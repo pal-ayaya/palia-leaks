@@ -18,15 +18,9 @@ Name plate backgrounds are the new cool thing and they're coming to a premium sh
 
 ![Tier 5 nameplate "Amaze"](./files/nameplate-amaze-t5.png)
 
-⠀
-
 ![Tier 5 nameplate "Cool"](./files/nameplate-cool-t5.png)
 
-⠀
-
 ![Tier 5 nameplate "Cute"](./files/nameplate-cute-t5.png)
-
-⠀
 
 ![Tier 5 nameplate "Heart"](./files/nameplate-heart-t5.png)
 
