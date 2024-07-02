@@ -58,15 +58,9 @@ Upcoming tool sets include Empyreal, Froggy, LEafy Weave and Spring Sakura, for 
 
 ![Empyreal tool set](./files/tools-empyreal.png)
 
-⠀
-
 ![Froggy tool set ](./files/tools-froggy.png)
 
-⠀
-
 ![Leafy Weave tool set ](./files/tools-leafyweave.png)
-
-⠀
 
 ![Spring Sakura tool set ](./files/tools-springsakura.png)
 
@@ -81,8 +75,6 @@ Upcoming tool sets include Empyreal, Froggy, LEafy Weave and Spring Sakura, for 
 6 new furniture items that can be planted and take 3 stages to grow.
 
 [![Growable furniture](./files/growables.png)](./files/growables.png) 
-
-⠀
 
 ![Book decor](./files/books.png)
 
@@ -128,11 +120,7 @@ There's still some remnants of how old Alpha maps used to look like in the game 
 
 [![Alpha Bahari Bay](./files/alphaaz1-thumb.jpg)](./files/alphaaz1.png) 
 
-⠀
-
 [![Alpha Kilima Village](./files/alphavillage-thumb.jpg)](./files/alphavillage.png) 
-
-⠀
 
 [![Alpha Kilima Village center](./files/alphavillagecenter-thumb.jpg)](./files/alphavillagecenter.png) 
 
@@ -146,15 +134,11 @@ There's still some remnants of how old Alpha maps used to look like in the game 
 
 These were added to make navigating the temples easier. Click to zoom.
 
-[![Alpha Bahari Bay](./files/earth_temple_map-thumb.jpg)](./files/earth_temple_map.png) 
+[![Earth Tempe map](./files/earth_temple_map-thumb.jpg)](./files/earth_temple_map.png) 
 
-⠀
+[![Fire Temple map](./files/fire_temple_map-thumb.jpg)](./files/fire_temple_map.png) 
 
-[![Alpha Kilima Village](./files/fire_temple_map-thumb.jpg)](./files/fire_temple_map.png) 
-
-⠀
-
-[![Alpha Kilima Village center](./files/water_temple_map-thumb.jpg)](./files/water_temple_map.png) 
+[![Water Temple map](./files/water_temple_map-thumb.jpg)](./files/water_temple_map.png) 
 
 ⠀
 
