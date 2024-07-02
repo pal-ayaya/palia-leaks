@@ -108,6 +108,10 @@ While **Elderwoods** is pretty much confirmed, this map file that aligns with th
 
 [![Growable furniture](./files/growables.png)](./files/growables.png) 
 
+⠀
+
+### Nerd stuff.
+
 ![Book decor](./files/books.png)
 
 ⠀
