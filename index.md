@@ -193,9 +193,23 @@ Newly announced house tour will allow players to leave emoji reacitons, hinting 
 
 ## New wood
 
+A new tree type exclusive to Elderwoods, and the associated materials.
+
+Render TBD
+
 **Elderwood tree seed**, **Elderwood plank**, and **Elderwood wood** (how much wood could a woodchuck chuck).
 
 ![Elderwood seed](./files/elderwoodseed.png) ![Elderwood plank](./files/elderwoodplank.png) ![Elderwood wood ood od d](./files/elderwoodwood.png)
+
+⠀
+
+---
+
+⠀
+
+## Housing: **Pool**
+
+Render TBD
 
 ⠀
 
@@ -282,31 +296,6 @@ Map is mostly filled with dense forests with occasional clearings. Moreover, the
 [![Elderwood collage](./files/elderwood-collage.jpg)](./files/elderwood-collage.jpg)
 
 <video src="./files/elderwood_landscape.mov" controls style="width: 100%"></video>
-
-⠀
-
----
-
-⠀
-
-## Combat update
-
-**Staff of the Cosmos** is the final item unlocked by **completing Night Sky Temple bundles**. It's filed under "Combat" skill, but its purpose is so far unknown.
-
-![Staff of the Cosmos](./files/staffofthecosmos.png)
-
-⠀
-
----
-
-⠀
-
-## New plants and decor
-
-
-There's now a placeable green cylinder...
-
-![0.186 decor](./files/186-decor.png)
 
 ⠀
 
