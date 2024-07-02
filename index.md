@@ -12,21 +12,21 @@ Expect aggressive monetization. And now, back to regular programming.
 
 ## Monetization: **Nameplate decorations**
 
-Name plate backgrounds are the new cool thing and they're coming to a premium shop near you.
+Name plate backgrounds are the new cool thing and they're coming to a premium shop near you. These come in 5 tiers, each tier more visually cluttered than the previous one. Pictured - tier 5.
 
-![Pollen pup pet set](./files/nameplate-amaze-t5.png)]
-
-⠀
-
-![Pollen pup pet set](./files/nameplate-cool-t5.png)]
+![Tier 5 nameplate "Amaze"](./files/nameplate-amaze-t5.png)]
 
 ⠀
 
-![Pollen pup pet set](./files/nameplate-cute-t5.png)]
+![Tier 5 nameplate "Cool"](./files/nameplate-cool-t5.png)]
 
 ⠀
 
-![Pollen pup pet set](./files/nameplate-heart-t5.png)]
+![Tier 5 nameplate "Cute"](./files/nameplate-cute-t5.png)]
+
+⠀
+
+![Tier 5 nameplate "Heart"](./files/nameplate-heart-t5.png)]
 
 
 
