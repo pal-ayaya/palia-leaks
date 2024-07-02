@@ -1,3 +1,160 @@
+# 0.181
+
+## Singularity 6 was sold
+
+Expect aggressive monetization. And now, back to regular programming.
+
+⠀
+
+---
+
+⠀
+
+## Monetization: **Nameplate decorations**
+
+Name plate backgrounds are the new cool thing and they're coming to a premium shop near you.
+
+![Pollen pup pet set](./files/nameplate-amaze-t5.png)]
+
+⠀
+
+![Pollen pup pet set](./files/nameplate-cool-t5.png)]
+
+⠀
+
+![Pollen pup pet set](./files/nameplate-cute-t5.png)]
+
+⠀
+
+![Pollen pup pet set](./files/nameplate-heart-t5.png)]
+
+
+
+## Monetization: **Pollen Pup** pet
+
+As usual, this pet comes in four variants.
+
+![Pollen pup pet set](./files/pollenpup-set.png)]
+
+⠀
+
+![Pollen pup pet icons](./files/pollenpup.png)]
+⠀
+
+---
+
+⠀
+## Monetization: more **tool sets**
+
+Upcoming tool sets include Empyreal, Froggy, LEafy Weave and Spring Sakura, for all your wallet emptying needs.
+
+![Empyreal tool set](./files/tools-empyreal.png)]
+
+⠀
+
+![Froggy tool set ](./files/tools-froggy.png)]
+
+⠀
+
+![Leafy Weave tool set ](./files/tools-leafyweave.png)]
+
+⠀
+
+![Spring Sakura tool set ](./files/tools-springsakura.png)]
+
+⠀
+
+---
+
+⠀
+
+## New decor: **growable set**, **placeable books** and more
+
+6 new furniture items that can be planted and take 3 stages to grow.
+
+[![Growable furniture](./files/growables.png)](./files/growables.png) 
+
+⠀
+
+![Book decor](./files/books.png)
+
+⠀
+
+*Cat pillow.*
+
+![Pillows](./files/pillows.png)]
+⠀
+⠀
+
+---
+
+⠀
+
+## **House tour** reactions
+
+Newly announced house tour will allow players to leave emoji reacitons, hinting at the ability to have player house tours.
+
+[![House tour reactions](./files/emojis.png)](./files/emojis.png) 
+
+⠀
+
+---
+
+⠀
+
+## New wood
+
+**Elderwood tree seed**, **Elderwood plank**, and **Elderwood wood** (how much wood could a woodchuck chuck).
+
+![Elderwood seed](./files/elderwoodseed.png) ![Elderwood plank](./files/elderwoodplank.png) ![Elderwood wood ood od d](./files/elderwoodwood.png)
+
+⠀
+
+---
+
+⠀
+
+## Old Alpha maps
+
+There's still some remnants of how old Alpha maps used to look like in the game files. Take a look and see if you can spot the differences (click to enlarge).
+
+[![Alpha Bahari Bay](./files/alphaaz1-thumb.jpg)](./files/alphaaz1.png) 
+
+⠀
+
+[![Alpha Kilima Village](./files/alphavillage-thumb.jpg)](./files/alphavillage.png) 
+
+⠀
+
+[![Alpha Kilima Village center](./files/alphavillagecenter-thumb.jpg)](./files/alphavillagecenter.png) 
+
+⠀
+
+---
+
+⠀
+
+## Remaining temple maps
+
+These were added to make navigating the temples easier. Click to zoom.
+
+[![Alpha Bahari Bay](./files/earth_temple_map-thumb.jpg)](./files/earth_temple_map.png) 
+
+⠀
+
+[![Alpha Kilima Village](./files/fire_temple_map-thumb.jpg)](./files/fire_temple_map.png) 
+
+⠀
+
+[![Alpha Kilima Village center](./files/water_temple_map-thumb.jpg)](./files/water_temple_map.png) 
+
+⠀
+
+---
+---
+
+⠀
+
 # 0.178
 
 ## AZ2 is **Elderwoods**
