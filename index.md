@@ -226,7 +226,7 @@ This area includes a gazebo with a pier, and some static [Beach Walkers](#new-hu
 
 ### Mushroom caves
 
-Mushroom caves are making a comeback in this verions of the game archive. 
+Mushroom caves are making a comeback in this verion of the game archive. 
 
 <video src="./files/elderwood_cave.mov" controls style="width: 100%"></video>
 
