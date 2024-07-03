@@ -442,10 +442,10 @@ Unreleased assets from before 0.177.x
 ![Factions config](./files/darken.png)
 
 ⠀
+
 ---
 
 ⠀
-
 
 ## New map: **Community Center**
 
