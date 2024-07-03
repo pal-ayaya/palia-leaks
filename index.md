@@ -44,7 +44,7 @@ That one Elderwoods specific [hunting creature](#new-hunting-creature-codename-b
 
 ## Summer event(?): **Prismbeard**'s ship
 
-While we still don't know if the [Summer Event](#summer-event) is cancelled due S6's to recent acquisition (and because it's already summer...), a Grimalkin ship has been found in the game files, along with some further hints about Prismbeard's story.
+While we still don't know if the [Summer Event](#summer-event) is cancelled due to S6's recent acquisition (and because it's already summer...), a Grimalkin ship has been found in the game files, along with some further hints about Prismbeard's story.
 
 file TBD
 
