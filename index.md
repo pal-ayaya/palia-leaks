@@ -46,7 +46,7 @@ That one Elderwoods specific [hunting creature](#new-hunting-creature-codename-b
 
 While we still don't know if the [Summer Event](#summer-event) is cancelled due to S6's recent acquisition (and because it's already summer...), a Grimalkin ship has been found in the game files, along with some further hints about Prismbeard's story.
 
-file TBD
+(image coming jul 4)
 
 ![Poster of Prismbeard. Wanted.](./files/prismbeard.png)
 
@@ -72,8 +72,7 @@ While **Elderwoods** is pretty much confirmed, this map file that aligns with th
 
 ## New decor: **summer furniture set**, **soundscapes** and more
 
-
-image TBD
+(image coming jul 4)
 
 A new furniture set including the following decor items:
  - Popsicles
@@ -92,7 +91,19 @@ A new furniture set including the following decor items:
 
 Currently in development, ability to play one of 8 music tracks in each room of the player's house.
 
-mp3 files TBD
+<audio src="./files/room-sound-1.mp3" controls style="width: 100%"></audio>
+
+<audio src="./files/room-sound-2.mp3" controls style="width: 100%"></audio>
+
+<audio src="./files/room-sound-3.mp3" controls style="width: 100%"></audio>
+
+<audio src="./files/room-sound-4.mp3" controls style="width: 100%"></audio>
+
+<audio src="./files/room-sound-5.mp3" controls style="width: 100%"></audio>
+
+<audio src="./files/room-sound-6.mp3" controls style="width: 100%"></audio>
+
+<audio src="./files/room-sound-7.mp3" controls style="width: 100%"></audio>
 
 Track names:
 
@@ -145,7 +156,7 @@ Newly announced house tour will allow players to leave emoji reacitons, hinting 
 
 A new tree type exclusive to Elderwoods, and the associated materials.
 
-Render TBD
+(image coming jul 4)
 
 **Elderwood tree seed**, **Elderwood plank**, and **Elderwood wood** (how much wood could a woodchuck chuck).
 
@@ -159,7 +170,7 @@ Render TBD
 
 ## Housing: **Pool**
 
-Render TBD
+(image coming jul 4)
 
 ⠀
 
