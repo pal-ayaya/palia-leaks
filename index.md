@@ -36,7 +36,13 @@ That one Elderwoods specific [hunting creature](#new-hunting-creature-codename-b
 
 While we still don't know if the [Summer Event](#summer-event) is cancelled due to S6's recent acquisition (and because it's already summer...), a Grimalkin ship has been found in the game files, along with some further hints about Prismbeard's story.
 
-(image coming jul 4)
+![Prismbeard's ship](./files/grimalkin-ship.png)
+
+The ship's figurehead resembles a cat-mermaid.
+
+![Cat-mermaid or something](./files/mermaid.png)
+
+Prismbeard's wanted poster included in 0.181 release:
 
 ![Poster of Prismbeard. Wanted.](./files/prismbeard.png)
 
@@ -62,7 +68,7 @@ While **Elderwoods** is pretty much confirmed, this map file that aligns with th
 
 ## New decor: **summer furniture set**, **soundscapes** and more
 
-(image coming jul 4)
+![Summer decor](./files/summer-decor.png)
 
 A new furniture set including the following decor items:
  - Popsicles
@@ -142,11 +148,11 @@ Newly announced house tour will allow players to leave emoji reacitons, hinting 
 
 ⠀
 
-## New wood
+## New harvestable wood type and **Koppa** seeds
 
 A new tree type exclusive to Elderwoods, and the associated materials.
 
-(image coming jul 4)
+![Elderwood tree](./files/elderwood-tree.png)
 
 **Elderwood tree seed**, **Elderwood plank**, and **Elderwood wood** (how much wood could a woodchuck chuck).
 
@@ -160,7 +166,9 @@ A new tree type exclusive to Elderwoods, and the associated materials.
 
 ## Housing: **Pool**
 
-(image coming jul 4)
+This model uses placeholder textures for now and will most likely look better.
+
+![Housing: Pool](./files/pool.png)
 
 ⠀
 
