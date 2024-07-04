@@ -392,12 +392,6 @@ Also known as "the Umbraan child", "the lost child".
 
 ## Housing addons
 
-### Courtyard
-
-![View ride dashboard](./files/courtyard.png)
-
-⠀
-
 ### Dormer window (goes on the roof)
 
 ![View ride dashboard](./files/dormer-window.png)
