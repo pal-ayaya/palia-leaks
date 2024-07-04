@@ -38,7 +38,7 @@ While we still don't know if the [Summer Event](#summer-event) is cancelled due 
 
 ![Prismbeard's ship](./files/grimalkin-ship.png)
 
-The ship's figurehead resembles a ~~dog~~ ~~cat~~ otter...? mermaid.
+The ship's figurehead resembles a mer- ~~dog~~ ~~cat~~ otter...?
 
 ![Cat-mermaid or something](./files/mermaid.png)
 
