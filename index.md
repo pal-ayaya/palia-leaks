@@ -9,7 +9,7 @@
 
 ⠀
 
-## Greetings from Elderwood!
+## Greetings from **Elderwood**!
 
 Elderwood, or AZ2, is mostly presentable in 0.189. There's still some placeholder assets and greybox blockouts, but the map looks about 90% complete now.
 
@@ -49,7 +49,7 @@ The zone has now undergone two different reworks since it was originally conceiv
 
 ⠀
 
-## Temple of the Cosmos
+## Next in: **Temple of the Cosmos**
 
 In 0.189, the temple was updated with a long corridor leading to another set of closed doors. This is what lies beyond.
 
