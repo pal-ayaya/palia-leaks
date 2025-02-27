@@ -11,7 +11,7 @@
 
 ## Greetings from Elderwood!
 
-Elderwood, or AZ2, is mostly presentable in 0.189. There's still some placeholder assets and greybox blockouts, but the map now looks about 90% complete.
+Elderwood, or AZ2, is mostly presentable in 0.189. There's still some placeholder assets and greybox blockouts, but the map looks about 90% complete now.
 
 
 [![Elderwood 1!](./files/189/thumbs/elderwood-1.png)](./files/189/elderwood-1.png)
