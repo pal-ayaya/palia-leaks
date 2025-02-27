@@ -85,6 +85,8 @@ That one Elderwoods specific [hunting creature](#new-hunting-creature-codename-b
 
 ## Summer event: ~~SCRAPPED~~
 
+Gone, reduced to atoms.
+
 ⠀
 
 ---
