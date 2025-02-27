@@ -29,10 +29,6 @@ Elderwood, or AZ2, is mostly presentable in 0.189. There's still some placeholde
 
 ⠀
 
----
-
-⠀
-
 ### Size of Elderwood
 
 AZ2 compared to the default housing plot.
@@ -41,13 +37,9 @@ AZ2 compared to the default housing plot.
 
 ⠀
 
----
-
-⠀
-
 ### Elderwood map
 
-The zone has now undergone two different reworks since it was originally conceived. Current version is about 60% the size of the original idea, and some areas are missing.
+The zone has now undergone two different reworks since it was originally conceived. Current version is about 60% the size of [the original idea](#az2-is-elderwoods), and some areas are missing.
 
 [![Elderwood map!](./files/189/elderwood-map.png)](./files/189/elderwood-map.png) 
 
@@ -162,7 +154,7 @@ There's still some remnants of how old Alpha maps used to look like in the game 
 
 AZ2 has changed again. It now includes enough trees to be called Elderwoods.
 
-This also hints that the [previous iteration of AZ2](#new-map-az2-in-the-umbraa-region), that included a fortress and a broken aqueduct, must have been a bad merge. Either Ancient Forest was scrapped in favor of Elderwoods, or these are two separate maps. 
+This also hints that the [previous iteration of AZ2](#4th-map-ancient-forest), that included a fortress and a broken aqueduct, must have been a bad merge. Either Ancient Forest was scrapped in favor of Elderwoods, or these are two separate maps. 
 
 
 [![Elderwood collage](./files/Elderwoods.jpg)](./files/Elderwoods.jpg) 
