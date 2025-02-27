@@ -51,7 +51,7 @@ The zone has now undergone two different reworks since it was originally conceiv
 
 ## Temple of the Cosmos
 
-In 0.189, the temple has been updated with a long corridor leading to another set of closed doors. And this is what lies beyond.
+In 0.189, the temple was updated with a long corridor leading to another set of closed doors. This is what lies beyond.
 
 [![Cosmos temple 1!](./files/189/thumbs/cosmos-temple-1.png)](./files/189/cosmos-temple-1.png)
 [![Cosmos temple 2!](./files/189/thumbs/cosmos-temple-2.png)](./files/189/cosmos-temple-2.png)
