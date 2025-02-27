@@ -45,6 +45,33 @@ The zone has now undergone two different reworks since it was originally conceiv
 
 ⠀
 
+### Fauna of Elderwood
+
+~17 new critters, ~23 new fish (including sharks), and a new huntable creature.
+
+[![Elderwood fauna!](./files/189/elderwood-fauna.png)](./files/189/elderwood-fauna.png) 
+
+- Bugs
+  - Butterfly: Dayshadow Batterfly, Kitsuu Moth, Cottonhop Batterfly, Vampire Batterfly,
+  - Beetle: Blood beetle, Banshee beetle, Draugr beetle, Shadvaraak
+  - Moth: Hummingbird Moth, Whispering Widow, Witch's Eye
+  - **Piksii**: Brightshroom Piksii, Flame Piksii, Zephyr Piksii, 
+  - Grasshopper: Flamehorned Rockhopper, Floating Lantern Rockhopper, Grumpy Granite Rockhopper, Pumpkin Rockhopper,
+
+- Fish
+  - Grim Gouramis, Sabertoothed Anchvoy, Fluttering Flounder, Bitterling Nova, Mullet Minnow
+  - Elderwood Betta, Halfmoon Betta, Umbraan Betta
+  - Ancient Eel, Lightrail
+  - Majiri of War, Midnight Floatfish, Moon Floatfish, Piksii Floatfish, Toadstool Floatfish, Umbraan Floatfish
+  - Dappled Discus, Frillyfin, Ancient Koi
+  - Brightshroom Oranda, Inyrevn Mermaid...
+  - **Sharks**: Elder Shark, River Shark
+
+- Hunting:
+  - **Fungopher**
+
+⠀
+
 ---
 
 ⠀
@@ -257,23 +284,6 @@ The map is half empty and uses placeholder pillar structures. It most likely doe
 
 
 ![Gatherables in ancient forest](./files/plants.png)
-
-- Bugs
-  - Butterfly: Dayshadow butterfly, Moth Kitsuu, Cottonhop butterfly, Vampire butterfly,
-  - Beetle: Blood beetle, Banshee beetle, Draugr beetle, Shadvaraak
-  - Moth: Hummingbird moth, Whispering Widow, Witch's Eye
-  - **Piksii**: Brightshroom piksii, Flame piksii, Zephyr piksii, 
-  - Grasshopper: Flamehorned rockhopper, Floating Lantern rockhopper, Grumpy Granite rockhopper, Pumpkin rockhopper,
-  - ...and more
-
-- Fish
-  - Gouramis Grim, 
-Sabertoothed anchvoy, Elderwood betta, Halfmoon betta, Umbraan betta, Flounder Fluttering, Nova Bitterling, Ancient Eel, Lightrail, Majiri of War, Midnight floatfish, Moon floatfish, Piksii floatfish, Toadstool floatfish, Umbraan floatfish, Dappled Discus, Frillyfin, Ancient Koi, 
-Brightshroom Oranda, Inyrevn Mermaid, Mullet Minnow...
-  - **Sharks**: Elder shark, River shark
-  - ...and more
-
-- Hunting: **Fungopher**
 
 ⠀
 
