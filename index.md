@@ -59,8 +59,7 @@ In 0.189, the temple has been updated with a long corridor leading to another se
 [![Cosmos temple 4!](./files/189/thumbs/cosmos-temple-4.png)](./files/189/cosmos-temple-4.png)
 [![Cosmos temple 5!](./files/189/thumbs/cosmos-temple-5.png)](./files/189/cosmos-temple-5.png)
 [![Cosmos temple 6!](./files/189/thumbs/cosmos-temple-6.png)](./files/189/cosmos-temple-6.png)
-⠀
-⠀
+
 ⠀
 
 ---
