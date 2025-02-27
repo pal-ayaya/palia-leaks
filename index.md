@@ -1,22 +1,81 @@
-# 0.181
+# 0.189
 
-## Monetization: **Player name decorations**
-
-Name plate backgrounds are the new cool thing and they're coming to a premium shop near you. These come in 5 tiers, each tier more visually cluttered than the previous one. Pictured - tier 5.
-
-⠀
-
-![Tier 5 nameplate "Amaze"](./files/nameplate-amaze-t5.png)
-
-![Tier 5 nameplate "Cool"](./files/nameplate-cool-t5.png)
-
-![Tier 5 nameplate "Cute"](./files/nameplate-cute-t5.png)
-
-![Tier 5 nameplate "Heart"](./files/nameplate-heart-t5.png)
+[![Greetings from Elderwood!](./files/189/elderwood-postcard.png)](./files/189/elderwood.png)
+*Rumours of my demise have been greatly exaggerated.*
 
 ⠀
 
 ---
+
+⠀
+
+## Greetings from Elderwood!
+
+Elderwood, or AZ2, is mostly presentable in 0.189. There's still some placeholder assets and greybox blockouts, but the map now looks about 90% complete.
+
+
+[![Elderwood 1!](./files/189/thumbs/elderwood-1.png)](./files/189/elderwood-1.png)
+[![Elderwood 2!](./files/189/thumbs/elderwood-2.png)](./files/189/elderwood-2.png)
+[![Elderwood 3!](./files/189/thumbs/elderwood-3.png)](./files/189/elderwood-3.png)
+[![Elderwood 4!](./files/189/thumbs/elderwood-4.png)](./files/189/elderwood-4.png)
+[![Elderwood 5!](./files/189/thumbs/elderwood-5.png)](./files/189/elderwood-5.png)
+[![Elderwood 6!](./files/189/thumbs/elderwood-6.png)](./files/189/elderwood-6.png)
+[![Elderwood 8!](./files/189/thumbs/elderwood-8.png)](./files/189/elderwood-8.png)
+[![Elderwood 9!](./files/189/thumbs/elderwood-9.png)](./files/189/elderwood-9.png)
+[![Elderwood 10!](./files/189/thumbs/elderwood-10.png)](./files/189/elderwood-10.png)
+[![Elderwood 11!](./files/189/thumbs/elderwood-11.png)](./files/189/elderwood-11.png)
+[![Elderwood 12!](./files/189/thumbs/elderwood-12.png)](./files/189/elderwood-12.png)
+[![Elderwood 13!](./files/189/thumbs/elderwood-13.png)](./files/189/elderwood-13.png)
+
+⠀
+
+---
+
+⠀
+
+### Size of Elderwood
+
+AZ2 compared to the default housing plot.
+
+[![Size of Elderwood!](./files/189/elderwood-size.png)](./files/189/elderwood-size.png) 
+
+⠀
+
+---
+
+⠀
+
+### Elderwood map
+
+The zone has now undergone two different reworks since it was originally conceived. Current version is about 60% the size of the original idea, and some areas are missing.
+
+[![Elderwood map!](./files/189/elderwood-map.png)](./files/189/elderwood-map.png) 
+
+⠀
+
+---
+
+⠀
+
+## Temple of the Cosmos
+
+In 0.189, the temple has been updated with a long corridor leading to another set of closed doors. And this is what lies beyond.
+
+[![Cosmos temple 1!](./files/189/thumbs/cosmos-temple-1.png)](./files/189/cosmos-temple-1.png)
+[![Cosmos temple 2!](./files/189/thumbs/cosmos-temple-2.png)](./files/189/cosmos-temple-2.png)
+[![Cosmos temple 3!](./files/189/thumbs/cosmos-temple-3.png)](./files/189/cosmos-temple-3.png)
+[![Cosmos temple 4!](./files/189/thumbs/cosmos-temple-4.png)](./files/189/cosmos-temple-4.png)
+[![Cosmos temple 5!](./files/189/thumbs/cosmos-temple-5.png)](./files/189/cosmos-temple-5.png)
+[![Cosmos temple 6!](./files/189/thumbs/cosmos-temple-6.png)](./files/189/cosmos-temple-6.png)
+⠀
+⠀
+
+---
+---
+
+⠀
+
+# 0.181
 
 ⠀
 
@@ -32,20 +91,7 @@ That one Elderwoods specific [hunting creature](#new-hunting-creature-codename-b
 
 ⠀
 
-## Summer event(?): **Prismbeard**'s ship
-
-While we still don't know if the [Summer Event](#summer-event) is cancelled due to S6's recent acquisition (and because it's already summer...), a Grimalkin ship has been found in the game files, along with some further hints about Prismbeard's story. [Ulfe](#new-npc-ulfe) for scale.
-
-![Prismbeard's ship](./files/grimalkin-ship.png)
-
-The ship's figurehead resembles a mer- ~~dog~~ ~~cat~~ otter...?
-
-![Cat-mermaid or something](./files/mermaid.png)
-
-Prismbeard's wanted poster included in 0.181 release:
-
-![Poster of Prismbeard. Wanted.](./files/prismbeard.png)
-
+## Summer event: ~~SCRAPPED~~
 
 ⠀
 
@@ -58,89 +104,6 @@ Prismbeard's wanted poster included in 0.181 release:
 While **Elderwoods** is pretty much confirmed, this map file that aligns with the most recent look of [AZ2](#az2-is-elderwoods) was also spotted. But - confusingly, it's called "Ghost Village".
 
 ![Ghost village map](./files/gostvillage.png)
-
-⠀
-
----
-
-
-⠀
-
-## New decor: **summer furniture set**, **soundscapes** and more
-
-![Summer decor](./files/summer-decor.png)
-
-A new furniture set including the following decor items:
- - Popsicles
- - Toy sailboat
- - Beach ball
- - Sand castle
- - Camera
- - Surfboard
- - Flip flops
- - Towels
- - Sunglasses
- - ...and more
-
-⠀
-### Soundscapes
-
-Currently in development, ability to play one of 8 music tracks in each room of the player's house.
-
-<audio src="./files/room-sound-1.mp3" controls style="width: 100%"></audio>
-
-<audio src="./files/room-sound-2.mp3" controls style="width: 100%"></audio>
-
-<audio src="./files/room-sound-3.mp3" controls style="width: 100%"></audio>
-
-<audio src="./files/room-sound-4.mp3" controls style="width: 100%"></audio>
-
-<audio src="./files/room-sound-5.mp3" controls style="width: 100%"></audio>
-
-<audio src="./files/room-sound-6.mp3" controls style="width: 100%"></audio>
-
-<audio src="./files/room-sound-7.mp3" controls style="width: 100%"></audio>
-
-Track names:
-
- - Feather Dance
- - First Rainy Day
- - Goodnight
- - Lost in Thoughts
- - Morning in Bahari
- - Out There Things
- - Purple Waters
- - Where Are You
-
-⠀
-
----
-
-⠀
-
-## More **housing biomes** 
-
-Upcoming biomes include: 
-
- - Air temple
- - Fire temple
- - Dragon Shrine
- - Elderwood
- - Bahari cave
- - Ancient Ruins
- - Volcano (actual one)
-
-⠀
-
----
-
-⠀
-
-## **House tour** reactions
-
-Newly announced house tour will allow players to leave emoji reacitons, hinting at the ability to have player house tours.
-
-[![House tour reactions](./files/emojis.png)](./files/emojis.png) 
 
 ⠀
 
@@ -185,22 +148,6 @@ There's still some remnants of how old Alpha maps used to look like in the game 
 [![Alpha Kilima Village](./files/alphavillage-thumb.jpg)](./files/alphavillage.png) 
 
 [![Alpha Kilima Village center](./files/alphavillagecenter-thumb.jpg)](./files/alphavillagecenter.png) 
-
-⠀
-
----
-
-⠀
-
-## Remaining temple maps
-
-These were added to make navigating the temples easier. Click to zoom.
-
-[![Earth Tempe map](./files/earth_temple_map-thumb.jpg)](./files/earth_temple_map.png) 
-
-[![Fire Temple map](./files/fire_temple_map-thumb.jpg)](./files/fire_temple_map.png) 
-
-[![Water Temple map](./files/water_temple_map-thumb.jpg)](./files/water_temple_map.png) 
 
 ⠀
 
@@ -255,31 +202,6 @@ Map is mostly filled with dense forests with occasional clearings. Moreover, the
 [![Elderwood collage](./files/elderwood-collage.jpg)](./files/elderwood-collage.jpg)
 
 <video src="./files/elderwood_landscape.mov" controls style="width: 100%"></video>
-
-⠀
-
----
-
-⠀
-
-## Summer event
-
-New summer event was spotted. Some of the activities involve competitions in gathering colorful shells, and treasure hunts. Not much more is known, other than that it takes place on a separate island map.
-
-
-[![Summer island map](./files/summerisland.png)](./files/summerisland.png) 
-
-⠀
-
----
-
-⠀
-
-## Air temple map
-
-A hand-drawn map of the Air Temple was added, with blue eggs required to progress the main quest clearly marked. 
-
-[![Air temple map](./files/air_temple_map.jpg)](./files/air_temple_map.jpg) 
 
 ⠀
 
@@ -399,22 +321,6 @@ Also known as "the Umbraan child", "the lost child".
 ⠀
 
 ---
-
-⠀
-
-### More referral rewards
-
-![referral pergolas](./files/referrer-rewards.png)
-
-⠀
-
-### Discord rewards
-
-![Wumpus plushie](./files/wumpus.png) 
-
-⠀
-
----
 ---
 
 ⠀
@@ -432,20 +338,6 @@ Unreleased assets from before 0.177.x
 ⠀
 
 ![Factions config](./files/darken.png)
-
-⠀
-
----
-
-⠀
-
-## New map: **Community Center**
-
-<video src="./files/community-center.mov" controls style="width: 100%"></video>
-
-[![Community center](./files/CommunityCenter1.jpg)](./files/CommunityCenter1.jpg)
-
-[![Community center](./files/CommunityCenter2.jpg)](./files/CommunityCenter2.jpg)
 
 ⠀
 
