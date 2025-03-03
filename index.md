@@ -39,7 +39,7 @@ AZ2 compared to the default housing plot.
 
 ### Elderwood map
 
-The zone has now undergone two different reworks since it was originally conceived. Current version is about 60% the size of [the original idea](#az2-is-elderwoods), and some areas are missing.
+The zone has now undergone two different reworks since it was originally conceived. The current version is about 60% the size of [the original idea](#az2-is-elderwoods), and some areas are missing.
 
 [![Elderwood map!](./files/189/elderwood-map.png)](./files/189/elderwood-map.png) 
 
@@ -86,6 +86,20 @@ In 0.189, the temple was updated with a long corridor leading to another set of 
 [![Cosmos temple 4!](./files/189/thumbs/cosmos-temple-4.png)](./files/189/cosmos-temple-4.png)
 [![Cosmos temple 5!](./files/189/thumbs/cosmos-temple-5.png)](./files/189/cosmos-temple-5.png)
 [![Cosmos temple 6!](./files/189/thumbs/cosmos-temple-6.png)](./files/189/cosmos-temple-6.png)
+
+⠀
+
+---
+---
+
+
+# INTERMISSION
+
+Hey, I heard you like butterflies? Here's a map of all possible spawn locations of the elusive **Rainbow-Tipped Butterfly**. Be warned though, that those spawn points share spawn pool with the following critters: Bahari Glowbug, Lunar Fairy Moth, Kilima Night Moth, Common Blue Butterfly, Fairy Mantis, Common Field Cricket, Azure Stonehopper. So you'll still need a lot of luck.
+
+[![Rainbow-tipped butterfly spawn map!](./files/189/rainbow-butterfly-spawns.png)](./files/189/rainbow-butterfly-spawns.png)
+
+And now, back to regular programming.
 
 ⠀
 
@@ -235,7 +249,7 @@ Map is mostly filled with dense forests with occasional clearings. Moreover, the
 
 ## 4th map? **Ancient Forest?**
 
-This map was shipped in 0.177.x under `AZ2`, but it's different from the current AZ2. It's unknown if it was scrapped in favor of Elderwoods, or if it's indeed the 4th map. The  rocky area int the back seems to just be a chunk merge error, and belongs to the current AZ2.
+This map was shipped in 0.177.x under `AZ2`, but it's different from the current AZ2. It's unknown if it was scrapped in favor of Elderwoods, or if it's indeed the 4th map. The rocky area in the back seems to just be a chunk merge error, and belongs to the current AZ2.
 
 The map is half empty and uses placeholder pillar structures. It most likely doesn't represent the final look of the zone.
 
