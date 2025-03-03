@@ -92,6 +92,7 @@ In 0.189, the temple was updated with a long corridor leading to another set of 
 ---
 ---
 
+⠀
 
 # INTERMISSION
 
