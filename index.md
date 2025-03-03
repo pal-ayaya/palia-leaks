@@ -98,7 +98,7 @@ In 0.189, the temple was updated with a long corridor leading to another set of 
 
 Hey, I heard you like butterflies? Here's a map of all possible spawn locations of the elusive **Rainbow-Tipped Butterfly**. 
 
-Be warned though, that those spawn points share spawn pool with the following critters: Bahari Glowbug, Lunar Fairy Moth, Kilima Night Moth, Common Blue Butterfly, Fairy Mantis, Common Field Cricket, Azure Stonehopper. So you'll still need a lot of luck.
+Be warned though, that those spawners can instead spawn one of the following: Bahari Glowbug, Lunar Fairy Moth, Kilima Night Moth, Common Blue Butterfly, Fairy Mantis, Common Field Cricket, Azure Stonehopper. So you'll still need a lot of luck.
 
 [![Rainbow-tipped butterfly spawn map!](./files/189/rainbow-butterfly-spawns.png)](./files/189/rainbow-butterfly-spawns.png)
 
