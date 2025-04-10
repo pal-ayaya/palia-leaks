@@ -1,5 +1,86 @@
 # 0.189
 
+## More Elderwood stuff
+
+[![Elderwood map update 0.190](./files/190/elderwood-map.png)](./files/190/elderwood-map.png)
+
+## Artifacts
+
+The three (3) Elderwood bundles will require assembling four (4) artifacts each.
+
+[![Elderwood artifacts](./files/190/artifacts.png)](./files/190/artifacts.png)
+
+⠀
+
+---
+
+⠀
+
+## Updated areas
+
+The map is still undergoing changes. This update mostly adds caves, and sprinkles more details in the existing surface level areas.
+
+[![Elderwood 1](./files/190/thumbs/elderwood-1.png)](./files/190/elderwood-1.png)
+[![Elderwood 2](./files/190/thumbs/elderwood-2.png)](./files/190/elderwood-2.png)
+[![Elderwood 5](./files/190/thumbs/elderwood-4.png)](./files/190/elderwood-4.png)
+[![Elderwood 5](./files/190/thumbs/elderwood-5.png)](./files/190/elderwood-5.png)
+[![Elderwood 6](./files/190/thumbs/elderwood-6.png)](./files/190/elderwood-6.png)
+[![Elderwood 7](./files/190/thumbs/elderwood-6.png)](./files/190/elderwood-7.png)
+[![Elderwood 8](./files/190/thumbs/elderwood-8.png)](./files/190/elderwood-8.png)
+[![Elderwood 9](./files/190/thumbs/elderwood-9.png)](./files/190/elderwood-9.png)
+[![Elderwood 10](./files/190/thumbs/elderwood-10.png)](./files/190/elderwood-10.png)
+[![Elderwood 11](./files/190/thumbs/elderwood-11.png)](./files/190/elderwood-11.png)
+[![Elderwood 12](./files/190/thumbs/elderwood-12.png)](./files/190/elderwood-12.png)
+[![Elderwood 13](./files/190/thumbs/elderwood-13.png)](./files/190/elderwood-13.png)
+[![Elderwood 14](./files/190/thumbs/elderwood-10.png)](./files/190/elderwood-14.png)
+[![Elderwood 15](./files/190/thumbs/elderwood-11.png)](./files/190/elderwood-15.png)
+[![Elderwood 16](./files/190/thumbs/elderwood-12.png)](./files/190/elderwood-16.png)
+[![Elderwood 17](./files/190/thumbs/elderwood-13.png)](./files/190/elderwood-17.png)
+
+⠀
+
+## Barn
+
+Barn.
+
+[![Barn.!](./files/190/barn.png)](./files/190/barn.png)
+
+⠀
+
+## New materials
+
+Spores, echo motes, Ogopuu meat and skin (yuck).
+
+![Spores](./files/190/spore-t1.png)
+![More spores](./files/190/spore-t2.png)
+![Even more spores](./files/190/spore-t3.png)
+![Echo mote](./files/190/echo-mote.png)
+![Ogopuu meat](./files/190/ogopuu-meat.png)
+![Ogopuu skin (yuck!)](./files/190/ogopuu-skin.png)
+
+⠀
+
+## Bee pet and even more stuffed animals...
+
+For all the people who still haven't gotten bored of playing bootled Pokémon.
+
+![Fungopher plush 1](./files/190/fungopher-plush-1.png)
+![Fungopher plush 2](./files/190/fungopher-plush-2.png)
+![Fungopher plush 3](./files/190/fungopher-plush-3.png)
+
+⠀
+
+![Bee pet](./files/190/bee-pet.png)
+
+⠀
+
+---
+---
+
+⠀
+
+# 0.189
+
 [![Greetings from Elderwood!](./files/189/elderwood-postcard.png)](./files/189/elderwood.png)
 *Rumours of my demise have been greatly exaggerated.*
 
@@ -14,18 +95,18 @@
 Elderwood, or AZ2, is mostly presentable in 0.189. There's still some placeholder assets and greybox blockouts, but the map looks about 90% complete now.
 
 
-[![Elderwood 1!](./files/189/thumbs/elderwood-1.png)](./files/189/elderwood-1.png)
-[![Elderwood 2!](./files/189/thumbs/elderwood-2.png)](./files/189/elderwood-2.png)
-[![Elderwood 3!](./files/189/thumbs/elderwood-3.png)](./files/189/elderwood-3.png)
-[![Elderwood 4!](./files/189/thumbs/elderwood-4.png)](./files/189/elderwood-4.png)
-[![Elderwood 5!](./files/189/thumbs/elderwood-5.png)](./files/189/elderwood-5.png)
-[![Elderwood 6!](./files/189/thumbs/elderwood-6.png)](./files/189/elderwood-6.png)
-[![Elderwood 8!](./files/189/thumbs/elderwood-8.png)](./files/189/elderwood-8.png)
-[![Elderwood 9!](./files/189/thumbs/elderwood-9.png)](./files/189/elderwood-9.png)
-[![Elderwood 10!](./files/189/thumbs/elderwood-10.png)](./files/189/elderwood-10.png)
-[![Elderwood 11!](./files/189/thumbs/elderwood-11.png)](./files/189/elderwood-11.png)
-[![Elderwood 12!](./files/189/thumbs/elderwood-12.png)](./files/189/elderwood-12.png)
-[![Elderwood 13!](./files/189/thumbs/elderwood-13.png)](./files/189/elderwood-13.png)
+[![Elderwood 1](./files/189/thumbs/elderwood-1.png)](./files/189/elderwood-1.png)
+[![Elderwood 2](./files/189/thumbs/elderwood-2.png)](./files/189/elderwood-2.png)
+[![Elderwood 3](./files/189/thumbs/elderwood-3.png)](./files/189/elderwood-3.png)
+[![Elderwood 4](./files/189/thumbs/elderwood-4.png)](./files/189/elderwood-4.png)
+[![Elderwood 5](./files/189/thumbs/elderwood-5.png)](./files/189/elderwood-5.png)
+[![Elderwood 6](./files/189/thumbs/elderwood-6.png)](./files/189/elderwood-6.png)
+[![Elderwood 8](./files/189/thumbs/elderwood-8.png)](./files/189/elderwood-8.png)
+[![Elderwood 9](./files/189/thumbs/elderwood-9.png)](./files/189/elderwood-9.png)
+[![Elderwood 10](./files/189/thumbs/elderwood-10.png)](./files/189/elderwood-10.png)
+[![Elderwood 11](./files/189/thumbs/elderwood-11.png)](./files/189/elderwood-11.png)
+[![Elderwood 12](./files/189/thumbs/elderwood-12.png)](./files/189/elderwood-12.png)
+[![Elderwood 13](./files/189/thumbs/elderwood-13.png)](./files/189/elderwood-13.png)
 
 ⠀
 
@@ -33,7 +114,7 @@ Elderwood, or AZ2, is mostly presentable in 0.189. There's still some placeholde
 
 AZ2 compared to the default housing plot.
 
-[![Size of Elderwood!](./files/189/elderwood-size.png)](./files/189/elderwood-size.png) 
+[![Size of Elderwood](./files/189/elderwood-size.png)](./files/189/elderwood-size.png) 
 
 ⠀
 
@@ -41,7 +122,7 @@ AZ2 compared to the default housing plot.
 
 The zone has now undergone two different reworks since it was originally conceived. The current version is about 60% the size of [the original idea](#az2-is-elderwoods), and some areas are missing.
 
-[![Elderwood map!](./files/189/elderwood-map.png)](./files/189/elderwood-map.png) 
+[![Elderwood map](./files/189/elderwood-map.png)](./files/189/elderwood-map.png) 
 
 ⠀
 
@@ -49,7 +130,7 @@ The zone has now undergone two different reworks since it was originally conceiv
 
 ~17 new critters, ~23 new fish (including sharks), and a new huntable creature.
 
-[![Elderwood fauna!](./files/189/elderwood-fauna.png)](./files/189/elderwood-fauna.png) 
+[![Elderwood fauna](./files/189/elderwood-fauna.png)](./files/189/elderwood-fauna.png) 
 
 - Bugs
   - Butterfly: Dayshadow Batterfly, Kitsuu Moth, Cottonhop Batterfly, Vampire Batterfly,
@@ -80,12 +161,12 @@ The zone has now undergone two different reworks since it was originally conceiv
 
 In 0.189, the temple was updated with a long corridor leading to another set of closed doors. This is what lies beyond.
 
-[![Cosmos temple 1!](./files/189/thumbs/cosmos-temple-1.png)](./files/189/cosmos-temple-1.png)
-[![Cosmos temple 2!](./files/189/thumbs/cosmos-temple-2.png)](./files/189/cosmos-temple-2.png)
-[![Cosmos temple 3!](./files/189/thumbs/cosmos-temple-3.png)](./files/189/cosmos-temple-3.png)
-[![Cosmos temple 4!](./files/189/thumbs/cosmos-temple-4.png)](./files/189/cosmos-temple-4.png)
-[![Cosmos temple 5!](./files/189/thumbs/cosmos-temple-5.png)](./files/189/cosmos-temple-5.png)
-[![Cosmos temple 6!](./files/189/thumbs/cosmos-temple-6.png)](./files/189/cosmos-temple-6.png)
+[![Cosmos temple 1](./files/189/thumbs/cosmos-temple-1.png)](./files/189/cosmos-temple-1.png)
+[![Cosmos temple 2](./files/189/thumbs/cosmos-temple-2.png)](./files/189/cosmos-temple-2.png)
+[![Cosmos temple 3](./files/189/thumbs/cosmos-temple-3.png)](./files/189/cosmos-temple-3.png)
+[![Cosmos temple 4](./files/189/thumbs/cosmos-temple-4.png)](./files/189/cosmos-temple-4.png)
+[![Cosmos temple 5](./files/189/thumbs/cosmos-temple-5.png)](./files/189/cosmos-temple-5.png)
+[![Cosmos temple 6](./files/189/thumbs/cosmos-temple-6.png)](./files/189/cosmos-temple-6.png)
 
 ⠀
 
@@ -102,7 +183,7 @@ Be warned though, that those spawners can instead spawn one of the following: Co
 
 But at least now it's clear, once and for all, where the butterfiels dwell.
 
-[![Rainbow-tipped butterfly spawn map!](./files/189/rainbow-butterfly-spawns.png)](./files/189/rainbow-butterfly-spawns.png)
+[![Rainbow-tipped butterfly spawn map](./files/189/rainbow-butterfly-spawns.png)](./files/189/rainbow-butterfly-spawns.png)
 
 And now, back to regular programming.
 
