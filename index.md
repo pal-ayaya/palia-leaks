@@ -4,6 +4,8 @@
 
 [![Elderwood map update 0.190](./files/190/elderwood-map.png)](./files/190/elderwood-map.png)
 
+⠀
+
 ## Artifacts
 
 The three (3) Elderwood bundles will require assembling four (4) artifacts each.
