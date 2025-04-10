@@ -39,7 +39,7 @@ The map is still undergoing changes. This update mostly adds caves, and sprinkle
 
 ⠀
 
-## Barn
+### Barn
 
 Barn.
 
@@ -47,7 +47,7 @@ Barn.
 
 ⠀
 
-## New materials
+### New materials
 
 Spores, echo motes, Ogopuu meat and skin (yuck).
 
@@ -60,7 +60,7 @@ Spores, echo motes, Ogopuu meat and skin (yuck).
 
 ⠀
 
-## Bee pet and even more stuffed animals...
+### Bee pet and even more stuffed animals...
 
 For all the people who still haven't gotten bored of playing bootled Pokémon.
 
