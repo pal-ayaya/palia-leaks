@@ -27,7 +27,7 @@ The map is still undergoing changes. This update mostly adds caves, and sprinkle
 [![Elderwood 5](./files/190/thumbs/elderwood-4.png)](./files/190/elderwood-4.png)
 [![Elderwood 5](./files/190/thumbs/elderwood-5.png)](./files/190/elderwood-5.png)
 [![Elderwood 6](./files/190/thumbs/elderwood-6.png)](./files/190/elderwood-6.png)
-[![Elderwood 7](./files/190/thumbs/elderwood-6.png)](./files/190/elderwood-7.png)
+[![Elderwood 7](./files/190/thumbs/elderwood-7.png)](./files/190/elderwood-7.png)
 [![Elderwood 8](./files/190/thumbs/elderwood-8.png)](./files/190/elderwood-8.png)
 [![Elderwood 9](./files/190/thumbs/elderwood-9.png)](./files/190/elderwood-9.png)
 [![Elderwood 10](./files/190/thumbs/elderwood-10.png)](./files/190/elderwood-10.png)
