@@ -34,10 +34,10 @@ The map is still undergoing changes. This update mostly adds caves, and sprinkle
 [![Elderwood 11](./files/190/thumbs/elderwood-11.png)](./files/190/elderwood-11.png)
 [![Elderwood 12](./files/190/thumbs/elderwood-12.png)](./files/190/elderwood-12.png)
 [![Elderwood 13](./files/190/thumbs/elderwood-13.png)](./files/190/elderwood-13.png)
-[![Elderwood 14](./files/190/thumbs/elderwood-10.png)](./files/190/elderwood-14.png)
-[![Elderwood 15](./files/190/thumbs/elderwood-11.png)](./files/190/elderwood-15.png)
-[![Elderwood 16](./files/190/thumbs/elderwood-12.png)](./files/190/elderwood-16.png)
-[![Elderwood 17](./files/190/thumbs/elderwood-13.png)](./files/190/elderwood-17.png)
+[![Elderwood 14](./files/190/thumbs/elderwood-14.png)](./files/190/elderwood-14.png)
+[![Elderwood 15](./files/190/thumbs/elderwood-15.png)](./files/190/elderwood-15.png)
+[![Elderwood 16](./files/190/thumbs/elderwood-16.png)](./files/190/elderwood-16.png)
+[![Elderwood 17](./files/190/thumbs/elderwood-17.png)](./files/190/elderwood-17.png)
 
 ⠀
 
